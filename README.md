@@ -1,2 +1,7 @@
-# Discord-DB
-Collection of every Discord Bot or Selfbot that were popular before, mostly leaked.
+
+## Manager
+
+- [@r3nm4rss](https://www.github.com/r3nm4rs-dev)
+
+# I won't gave credits for all because their is too much :)
+
