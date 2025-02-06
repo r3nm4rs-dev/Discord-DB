@@ -5,3 +5,5 @@
 
 # I won't gave credits for all because their is too much :)
 
+*  Server : https://discord.gg/VKBeRC4TJD
+*  Website For Tutorials : https://r3-help.netlify.app/
