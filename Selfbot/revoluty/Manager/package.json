@@ -1,0 +1,57 @@
+{
+  "name": "advanced-discord-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1tsubasa",
+  "description": "",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "advanced-command-handler": "^2.4.0",
+    "axios": "^1.7.2",
+    "child_process": "^1.0.2",
+    "clarity-db": "^1.0.6",
+    "discord-backup": "^3.3.2",
+    "discord-bnr": "^1.0.0",
+    "discord.js-selfbot-v13": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.7.1",
+    "lodash.snakecase": "^4.1.1",
+    "moment": "^2.30.1",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "node-osu": "^2.2.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pg": "^8.12.0",
+    "pg-promise": "^11.7.7",
+    "pwss": "^1.0.21",
+    "quick.db": "^9.1.7",
+    "quickpostgres": "^3.0.2",
+    "sequelize": "^6.37.3",
+    "stegano.db": "^1.2.5",
+    "write-file-atomic": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1tsubasa/advanced-discord-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1tsubasa/advanced-discord-handler/issues"
+  },
+  "homepage": "https://github.com/1tsubasa/advanced-discord-handler#readme",
+  "keywords": [
+    "discord.js",
+    "advanced-command-handler",
+    "clarity-db",
+    "mysql",
+    "sequelize",
+    "mongodb",
+    "pg-promise",
+    "stegano.db"
+  ]
+}
