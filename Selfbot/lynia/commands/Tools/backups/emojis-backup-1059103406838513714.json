@@ -1,0 +1,728 @@
+[
+  {
+    "id": "1059104558351126558",
+    "name": "emoji2",
+    "url": "https://cdn.discordapp.com/emojis/1059104558351126558.png",
+    "animated": false
+  },
+  {
+    "id": "1059104629348106250",
+    "name": "emoji8",
+    "url": "https://cdn.discordapp.com/emojis/1059104629348106250.png",
+    "animated": false
+  },
+  {
+    "id": "1059104646574116915",
+    "name": "emoji7",
+    "url": "https://cdn.discordapp.com/emojis/1059104646574116915.png",
+    "animated": false
+  },
+  {
+    "id": "1059104665842761768",
+    "name": "emojiactiv",
+    "url": "https://cdn.discordapp.com/emojis/1059104665842761768.gif",
+    "animated": true
+  },
+  {
+    "id": "1059104709534822450",
+    "name": "emojiattentionglitch",
+    "url": "https://cdn.discordapp.com/emojis/1059104709534822450.gif",
+    "animated": true
+  },
+  {
+    "id": "1059104814719586304",
+    "name": "emojibronze",
+    "url": "https://cdn.discordapp.com/emojis/1059104814719586304.png",
+    "animated": false
+  },
+  {
+    "id": "1059104834965475400",
+    "name": "emojicadeaugif",
+    "url": "https://cdn.discordapp.com/emojis/1059104834965475400.gif",
+    "animated": true
+  },
+  {
+    "id": "1059104880553381971",
+    "name": "emojichrono",
+    "url": "https://cdn.discordapp.com/emojis/1059104880553381971.png",
+    "animated": false
+  },
+  {
+    "id": "1059104936400539778",
+    "name": "emojicoeurnoirgif",
+    "url": "https://cdn.discordapp.com/emojis/1059104936400539778.gif",
+    "animated": true
+  },
+  {
+    "id": "1059104969908826163",
+    "name": "emojicouronnegif",
+    "url": "https://cdn.discordapp.com/emojis/1059104969908826163.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105092902588517",
+    "name": "emojidiamandgif",
+    "url": "https://cdn.discordapp.com/emojis/1059105092902588517.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105114998177802",
+    "name": "emojidiamand",
+    "url": "https://cdn.discordapp.com/emojis/1059105114998177802.png",
+    "animated": false
+  },
+  {
+    "id": "1059105143922102312",
+    "name": "emojidiscordgif",
+    "url": "https://cdn.discordapp.com/emojis/1059105143922102312.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105187886813184",
+    "name": "emojiclairgif",
+    "url": "https://cdn.discordapp.com/emojis/1059105187886813184.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105213992144976",
+    "name": "emojipinglgif",
+    "url": "https://cdn.discordapp.com/emojis/1059105213992144976.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105256765669456",
+    "name": "emojitoiledform",
+    "url": "https://cdn.discordapp.com/emojis/1059105256765669456.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105319667638273",
+    "name": "emojiftegif",
+    "url": "https://cdn.discordapp.com/emojis/1059105319667638273.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105388324212846",
+    "name": "emojiflchedroite",
+    "url": "https://cdn.discordapp.com/emojis/1059105388324212846.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105410860208189",
+    "name": "emojiflechegif",
+    "url": "https://cdn.discordapp.com/emojis/1059105410860208189.png",
+    "animated": false
+  },
+  {
+    "id": "1059105438215438336",
+    "name": "emojiflechepub",
+    "url": "https://cdn.discordapp.com/emojis/1059105438215438336.png",
+    "animated": false
+  },
+  {
+    "id": "1059105576090615818",
+    "name": "emojifusegif",
+    "url": "https://cdn.discordapp.com/emojis/1059105576090615818.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105603777204295",
+    "name": "emojilivegif",
+    "url": "https://cdn.discordapp.com/emojis/1059105603777204295.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105663361495100",
+    "name": "emojinitro",
+    "url": "https://cdn.discordapp.com/emojis/1059105663361495100.gif",
+    "animated": true
+  },
+  {
+    "id": "1059105682877583371",
+    "name": "emojinotif",
+    "url": "https://cdn.discordapp.com/emojis/1059105682877583371.png",
+    "animated": false
+  },
+  {
+    "id": "1059105827518173255",
+    "name": "emojior",
+    "url": "https://cdn.discordapp.com/emojis/1059105827518173255.png",
+    "animated": false
+  },
+  {
+    "id": "1059105854323970118",
+    "name": "emojipartenaireblanc",
+    "url": "https://cdn.discordapp.com/emojis/1059105854323970118.png",
+    "animated": false
+  },
+  {
+    "id": "1059105886007742495",
+    "name": "emojipartenairebleu",
+    "url": "https://cdn.discordapp.com/emojis/1059105886007742495.png",
+    "animated": false
+  },
+  {
+    "id": "1059105904164876370",
+    "name": "emojipartenairevert",
+    "url": "https://cdn.discordapp.com/emojis/1059105904164876370.png",
+    "animated": false
+  },
+  {
+    "id": "1059105926210125894",
+    "name": "emojipaypal",
+    "url": "https://cdn.discordapp.com/emojis/1059105926210125894.png",
+    "animated": false
+  },
+  {
+    "id": "1059105950394486824",
+    "name": "emojipc",
+    "url": "https://cdn.discordapp.com/emojis/1059105950394486824.png",
+    "animated": false
+  },
+  {
+    "id": "1059105981579132938",
+    "name": "emojipersonne",
+    "url": "https://cdn.discordapp.com/emojis/1059105981579132938.png",
+    "animated": false
+  },
+  {
+    "id": "1059106035291406346",
+    "name": "emojips",
+    "url": "https://cdn.discordapp.com/emojis/1059106035291406346.png",
+    "animated": false
+  },
+  {
+    "id": "1059106116732194856",
+    "name": "emojiretweet",
+    "url": "https://cdn.discordapp.com/emojis/1059106116732194856.png",
+    "animated": false
+  },
+  {
+    "id": "1059106147950411776",
+    "name": "emojirondvertgif",
+    "url": "https://cdn.discordapp.com/emojis/1059106147950411776.gif",
+    "animated": true
+  },
+  {
+    "id": "1059106187825651722",
+    "name": "emojisilver",
+    "url": "https://cdn.discordapp.com/emojis/1059106187825651722.png",
+    "animated": false
+  },
+  {
+    "id": "1059106228531376199",
+    "name": "emojisirnegif",
+    "url": "https://cdn.discordapp.com/emojis/1059106228531376199.gif",
+    "animated": true
+  },
+  {
+    "id": "1059106252430508032",
+    "name": "emojiswitch",
+    "url": "https://cdn.discordapp.com/emojis/1059106252430508032.png",
+    "animated": false
+  },
+  {
+    "id": "1059106277810257992",
+    "name": "emojivalidgif",
+    "url": "https://cdn.discordapp.com/emojis/1059106277810257992.gif",
+    "animated": true
+  },
+  {
+    "id": "1059106337340006452",
+    "name": "emojivalidractif",
+    "url": "https://cdn.discordapp.com/emojis/1059106337340006452.gif",
+    "animated": true
+  },
+  {
+    "id": "1059106358089228410",
+    "name": "emojixbox",
+    "url": "https://cdn.discordapp.com/emojis/1059106358089228410.gif",
+    "animated": true
+  },
+  {
+    "id": "1059109777239711824",
+    "name": "emojicadeau",
+    "url": "https://cdn.discordapp.com/emojis/1059109777239711824.png",
+    "animated": false
+  },
+  {
+    "id": "1059128475501478018",
+    "name": "ToCoins",
+    "url": "https://cdn.discordapp.com/emojis/1059128475501478018.png",
+    "animated": false
+  },
+  {
+    "id": "1059796651184750643",
+    "name": "Twitch",
+    "url": "https://cdn.discordapp.com/emojis/1059796651184750643.png",
+    "animated": false
+  },
+  {
+    "id": "1059796677462065222",
+    "name": "emojiCM",
+    "url": "https://cdn.discordapp.com/emojis/1059796677462065222.png",
+    "animated": false
+  },
+  {
+    "id": "1059796921243410462",
+    "name": "admin",
+    "url": "https://cdn.discordapp.com/emojis/1059796921243410462.png",
+    "animated": false
+  },
+  {
+    "id": "1059796949819195402",
+    "name": "boost",
+    "url": "https://cdn.discordapp.com/emojis/1059796949819195402.png",
+    "animated": false
+  },
+  {
+    "id": "1059797012016533615",
+    "name": "modrateur",
+    "url": "https://cdn.discordapp.com/emojis/1059797012016533615.png",
+    "animated": false
+  },
+  {
+    "id": "1059797039766048770",
+    "name": "helpers",
+    "url": "https://cdn.discordapp.com/emojis/1059797039766048770.png",
+    "animated": false
+  },
+  {
+    "id": "1059797112180711524",
+    "name": "membre",
+    "url": "https://cdn.discordapp.com/emojis/1059797112180711524.png",
+    "animated": false
+  },
+  {
+    "id": "1059797233521930270",
+    "name": "Soutien",
+    "url": "https://cdn.discordapp.com/emojis/1059797233521930270.png",
+    "animated": false
+  },
+  {
+    "id": "1059798816565497986",
+    "name": "emojinon",
+    "url": "https://cdn.discordapp.com/emojis/1059798816565497986.gif",
+    "animated": true
+  },
+  {
+    "id": "1061465301688012880",
+    "name": "iconrolemegavip",
+    "url": "https://cdn.discordapp.com/emojis/1061465301688012880.png",
+    "animated": false
+  },
+  {
+    "id": "1061725180147273859",
+    "name": "emojiflocon",
+    "url": "https://cdn.discordapp.com/emojis/1061725180147273859.gif",
+    "animated": true
+  },
+  {
+    "id": "1064315630653812786",
+    "name": "emojionepiece",
+    "url": "https://cdn.discordapp.com/emojis/1064315630653812786.png",
+    "animated": false
+  },
+  {
+    "id": "1065412047032029194",
+    "name": "emojiEBK",
+    "url": "https://cdn.discordapp.com/emojis/1065412047032029194.png",
+    "animated": false
+  },
+  {
+    "id": "1065412073049305159",
+    "name": "emojilune",
+    "url": "https://cdn.discordapp.com/emojis/1065412073049305159.gif",
+    "animated": true
+  },
+  {
+    "id": "1065412101859983440",
+    "name": "emojinikeblanc",
+    "url": "https://cdn.discordapp.com/emojis/1065412101859983440.gif",
+    "animated": true
+  },
+  {
+    "id": "1065412127243911270",
+    "name": "emojinikerouge",
+    "url": "https://cdn.discordapp.com/emojis/1065412127243911270.gif",
+    "animated": true
+  },
+  {
+    "id": "1065412150564229210",
+    "name": "emojidodo",
+    "url": "https://cdn.discordapp.com/emojis/1065412150564229210.png",
+    "animated": false
+  },
+  {
+    "id": "1065412174798934147",
+    "name": "emojidiamandrose",
+    "url": "https://cdn.discordapp.com/emojis/1065412174798934147.gif",
+    "animated": true
+  },
+  {
+    "id": "1065412250078290071",
+    "name": "staff",
+    "url": "https://cdn.discordapp.com/emojis/1065412250078290071.png",
+    "animated": false
+  },
+  {
+    "id": "1065412634607894692",
+    "name": "emojivote",
+    "url": "https://cdn.discordapp.com/emojis/1065412634607894692.png",
+    "animated": false
+  },
+  {
+    "id": "1065412664903344138",
+    "name": "emojitwitchanim",
+    "url": "https://cdn.discordapp.com/emojis/1065412664903344138.gif",
+    "animated": true
+  },
+  {
+    "id": "1065412772575334470",
+    "name": "emojitiktok",
+    "url": "https://cdn.discordapp.com/emojis/1065412772575334470.png",
+    "animated": false
+  },
+  {
+    "id": "1065704711082233917",
+    "name": "emojicouronneviolette",
+    "url": "https://cdn.discordapp.com/emojis/1065704711082233917.gif",
+    "animated": true
+  },
+  {
+    "id": "1065704819198808085",
+    "name": "emojicouronnebleu",
+    "url": "https://cdn.discordapp.com/emojis/1065704819198808085.gif",
+    "animated": true
+  },
+  {
+    "id": "1065797207225274369",
+    "name": "emojicouronneverte",
+    "url": "https://cdn.discordapp.com/emojis/1065797207225274369.gif",
+    "animated": true
+  },
+  {
+    "id": "1066547796993388634",
+    "name": "emojicouronneblanc",
+    "url": "https://cdn.discordapp.com/emojis/1066547796993388634.gif",
+    "animated": true
+  },
+  {
+    "id": "1066833696088391772",
+    "name": "emojicouronnerose",
+    "url": "https://cdn.discordapp.com/emojis/1066833696088391772.gif",
+    "animated": true
+  },
+  {
+    "id": "1066833739180679308",
+    "name": "emojicouronnerouge",
+    "url": "https://cdn.discordapp.com/emojis/1066833739180679308.gif",
+    "animated": true
+  },
+  {
+    "id": "1066833782226825296",
+    "name": "emojicouronnevioletfonc",
+    "url": "https://cdn.discordapp.com/emojis/1066833782226825296.gif",
+    "animated": true
+  },
+  {
+    "id": "1067197199114584185",
+    "name": "emojicouronnecyan",
+    "url": "https://cdn.discordapp.com/emojis/1067197199114584185.gif",
+    "animated": true
+  },
+  {
+    "id": "1070486873186779178",
+    "name": "emojichat",
+    "url": "https://cdn.discordapp.com/emojis/1070486873186779178.gif",
+    "animated": true
+  },
+  {
+    "id": "1071237401516703835",
+    "name": "emojicouronnedor",
+    "url": "https://cdn.discordapp.com/emojis/1071237401516703835.gif",
+    "animated": true
+  },
+  {
+    "id": "1073750123391238205",
+    "name": "emojitn",
+    "url": "https://cdn.discordapp.com/emojis/1073750123391238205.png",
+    "animated": false
+  },
+  {
+    "id": "1073750125811343430",
+    "name": "emojiqlf",
+    "url": "https://cdn.discordapp.com/emojis/1073750125811343430.png",
+    "animated": false
+  },
+  {
+    "id": "1073750201749221477",
+    "name": "emojipapillon",
+    "url": "https://cdn.discordapp.com/emojis/1073750201749221477.gif",
+    "animated": true
+  },
+  {
+    "id": "1073750271471140915",
+    "name": "emojinitrotransformation",
+    "url": "https://cdn.discordapp.com/emojis/1073750271471140915.gif",
+    "animated": true
+  },
+  {
+    "id": "1073750332884123800",
+    "name": "emojinotifgif",
+    "url": "https://cdn.discordapp.com/emojis/1073750332884123800.gif",
+    "animated": true
+  },
+  {
+    "id": "1073750395630911558",
+    "name": "emojibaguette",
+    "url": "https://cdn.discordapp.com/emojis/1073750395630911558.gif",
+    "animated": true
+  },
+  {
+    "id": "1073750503609073714",
+    "name": "emojilv",
+    "url": "https://cdn.discordapp.com/emojis/1073750503609073714.gif",
+    "animated": true
+  },
+  {
+    "id": "1074341737381757012",
+    "name": "emojitoile",
+    "url": "https://cdn.discordapp.com/emojis/1074341737381757012.gif",
+    "animated": true
+  },
+  {
+    "id": "1074495358362722354",
+    "name": "emojicouronneorange",
+    "url": "https://cdn.discordapp.com/emojis/1074495358362722354.gif",
+    "animated": true
+  },
+  {
+    "id": "1074495954448810124",
+    "name": "emojicouronnebleuclair",
+    "url": "https://cdn.discordapp.com/emojis/1074495954448810124.gif",
+    "animated": true
+  },
+  {
+    "id": "1079907241131524198",
+    "name": "emojicouronnenoir",
+    "url": "https://cdn.discordapp.com/emojis/1079907241131524198.gif",
+    "animated": true
+  },
+  {
+    "id": "1083520490645233774",
+    "name": "8299_Loading",
+    "url": "https://cdn.discordapp.com/emojis/1083520490645233774.gif",
+    "animated": true
+  },
+  {
+    "id": "1087148340975775815",
+    "name": "emojiracontepastavie",
+    "url": "https://cdn.discordapp.com/emojis/1087148340975775815.png",
+    "animated": false
+  },
+  {
+    "id": "1087148379030691892",
+    "name": "1emojirpdeouf",
+    "url": "https://cdn.discordapp.com/emojis/1087148379030691892.png",
+    "animated": false
+  },
+  {
+    "id": "1101569305159671918",
+    "name": "emojipolice",
+    "url": "https://cdn.discordapp.com/emojis/1101569305159671918.gif",
+    "animated": true
+  },
+  {
+    "id": "1102234010291277916",
+    "name": "Armeviolet",
+    "url": "https://cdn.discordapp.com/emojis/1102234010291277916.gif",
+    "animated": true
+  },
+  {
+    "id": "1102234029094338581",
+    "name": "Couteau",
+    "url": "https://cdn.discordapp.com/emojis/1102234029094338581.gif",
+    "animated": true
+  },
+  {
+    "id": "1102234511846146088",
+    "name": "Gemmeor",
+    "url": "https://cdn.discordapp.com/emojis/1102234511846146088.gif",
+    "animated": true
+  },
+  {
+    "id": "1102234573292699780",
+    "name": "PackChaos",
+    "url": "https://cdn.discordapp.com/emojis/1102234573292699780.png",
+    "animated": false
+  },
+  {
+    "id": "1102234647125053512",
+    "name": "Mdailleor",
+    "url": "https://cdn.discordapp.com/emojis/1102234647125053512.png",
+    "animated": false
+  },
+  {
+    "id": "1102237774951759922",
+    "name": "httpsemojidiscor",
+    "url": "https://cdn.discordapp.com/emojis/1102237774951759922.gif",
+    "animated": true
+  },
+  {
+    "id": "1102237793662554162",
+    "name": "arme_blanche",
+    "url": "https://cdn.discordapp.com/emojis/1102237793662554162.gif",
+    "animated": true
+  },
+  {
+    "id": "1102241993612087337",
+    "name": "logorppremium",
+    "url": "https://cdn.discordapp.com/emojis/1102241993612087337.png",
+    "animated": false
+  },
+  {
+    "id": "1102242816006041710",
+    "name": "db_normiebox",
+    "url": "https://cdn.discordapp.com/emojis/1102242816006041710.gif",
+    "animated": true
+  },
+  {
+    "id": "1102242818568769706",
+    "name": "godbox",
+    "url": "https://cdn.discordapp.com/emojis/1102242818568769706.gif",
+    "animated": true
+  },
+  {
+    "id": "1102242821588647956",
+    "name": "memebox",
+    "url": "https://cdn.discordapp.com/emojis/1102242821588647956.gif",
+    "animated": true
+  },
+  {
+    "id": "1102242825795547156",
+    "name": "db_dailybox",
+    "url": "https://cdn.discordapp.com/emojis/1102242825795547156.gif",
+    "animated": true
+  },
+  {
+    "id": "1102242829360697395",
+    "name": "db_dankbox",
+    "url": "https://cdn.discordapp.com/emojis/1102242829360697395.gif",
+    "animated": true
+  },
+  {
+    "id": "1108365734310060142",
+    "name": "cheers",
+    "url": "https://cdn.discordapp.com/emojis/1108365734310060142.gif",
+    "animated": true
+  },
+  {
+    "id": "1117954038944763974",
+    "name": "ny",
+    "url": "https://cdn.discordapp.com/emojis/1117954038944763974.png",
+    "animated": false
+  },
+  {
+    "id": "1121037280019230730",
+    "name": "valorantpoint",
+    "url": "https://cdn.discordapp.com/emojis/1121037280019230730.png",
+    "animated": false
+  },
+  {
+    "id": "1147008177536258109",
+    "name": "sims_plumbob",
+    "url": "https://cdn.discordapp.com/emojis/1147008177536258109.gif",
+    "animated": true
+  },
+  {
+    "id": "1260379026036625488",
+    "name": "arme",
+    "url": "https://cdn.discordapp.com/emojis/1260379026036625488.gif",
+    "animated": true
+  },
+  {
+    "id": "1262166314253025382",
+    "name": "951910964104675349",
+    "url": "https://cdn.discordapp.com/emojis/1262166314253025382.gif",
+    "animated": true
+  },
+  {
+    "id": "1273777634127642626",
+    "name": "3weed",
+    "url": "https://cdn.discordapp.com/emojis/1273777634127642626.png",
+    "animated": false
+  },
+  {
+    "id": "1273777749823062048",
+    "name": "3meth",
+    "url": "https://cdn.discordapp.com/emojis/1273777749823062048.png",
+    "animated": false
+  },
+  {
+    "id": "1273777815552000124",
+    "name": "1argent",
+    "url": "https://cdn.discordapp.com/emojis/1273777815552000124.png",
+    "animated": false
+  },
+  {
+    "id": "1273777934204928063",
+    "name": "1tech9",
+    "url": "https://cdn.discordapp.com/emojis/1273777934204928063.png",
+    "animated": false
+  },
+  {
+    "id": "1273777998910328882",
+    "name": "1uzi",
+    "url": "https://cdn.discordapp.com/emojis/1273777998910328882.png",
+    "animated": false
+  },
+  {
+    "id": "1273778094670610484",
+    "name": "1m16",
+    "url": "https://cdn.discordapp.com/emojis/1273778094670610484.png",
+    "animated": false
+  },
+  {
+    "id": "1273778255861776497",
+    "name": "1ak47",
+    "url": "https://cdn.discordapp.com/emojis/1273778255861776497.png",
+    "animated": false
+  },
+  {
+    "id": "1273778506345480233",
+    "name": "2mallette",
+    "url": "https://cdn.discordapp.com/emojis/1273778506345480233.png",
+    "animated": false
+  },
+  {
+    "id": "1273778628991385640",
+    "name": "2mallette2",
+    "url": "https://cdn.discordapp.com/emojis/1273778628991385640.png",
+    "animated": false
+  },
+  {
+    "id": "1273778829428785244",
+    "name": "2gilets",
+    "url": "https://cdn.discordapp.com/emojis/1273778829428785244.png",
+    "animated": false
+  },
+  {
+    "id": "1273895809632698430",
+    "name": "3cocaine",
+    "url": "https://cdn.discordapp.com/emojis/1273895809632698430.png",
+    "animated": false
+  },
+  {
+    "id": "1273896614582292512",
+    "name": "1ban",
+    "url": "https://cdn.discordapp.com/emojis/1273896614582292512.gif",
+    "animated": true
+  },
+  {
+    "id": "1273904006527451232",
+    "name": "Oui",
+    "url": "https://cdn.discordapp.com/emojis/1273904006527451232.gif",
+    "animated": true
+  }
+]

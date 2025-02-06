@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pluzio Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://i.ibb.co/G7zqdGf/7957f058a836c55d439f7dbb809042d0.webp" type="image/webp">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="welcome-message">Welcome in Pluzio !</div>
+        <h1>Pluzio Login</h1>
+        <form id="loginForm">
+            <label for="userId">User ID</label>
+            <input type="text" id="userId" placeholder="(Ex : 930152665810354216)" required />
+
+            <label for="token">Token</label>
+            <input type="password" id="token" placeholder="(Ex : OTMwMTUyNjY1OD...)" required />
+
+            <button type="submit" id="loginButton">Connect</button>
+        </form>
+        <div class="message" id="message"></div>
+        <button id="joinButton" class="join-button" onclick="joinServer()">Join Pluzio Server</button>
+    </div>
+
+    <footer>&copy; 2025 Pluzio - Tous droits réservés</footer>
+
+    <script>
+        function disableInspectKeys(e) {
+            if (['F12', 'I', 'J', 'U', 'C'].some(key => e.key.toUpperCase() === key && (e.ctrlKey || e.shiftKey)) ||
+                e.key === 'F12') {
+                e.preventDefault();
+                return false;
+            }
+        }
+
+        window.addEventListener('keydown', disableInspectKeys);
+        document.addEventListener('contextmenu', e => e.preventDefault());
+
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const userId = document.getElementById('userId').value;
+            const token = document.getElementById('token').value;
+            const loginButton = document.getElementById('loginButton');
+            const messageDiv = document.getElementById('message');
+            const joinButton = document.getElementById('joinButton');
+
+            loginButton.disabled = true;
+
+            const response = await fetch('/login', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ userId, token }),
+            });
+
+            const result = await response.json();
+
+            if (response.ok) {
+                messageDiv.textContent = 'Connecting in 20 seconds...';
+                let countdown = 20;
+                const interval = setInterval(() => {
+                    messageDiv.textContent = `Connecting in ${--countdown} seconds...`;
+                    if (countdown <= 0) {
+                        clearInterval(interval);
+                        messageDiv.textContent = 'You are connected.';
+                        joinButton.style.display = 'block';
+                    }
+                }, 1000);
+            } else {
+                messageDiv.textContent = `Erreur: ${result.message || 'Une erreur s\'est produite.'}`;
+            }
+            loginButton.disabled = false;
+        });
+
+        function joinServer() {
+            window.open('https://discord.gg/pluzio', '_blank');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+module.exports = {
+    name: "settings",
+    run: async(client, message, args) => {
+        let title = client.db.nitro === true ? '<:settings:1275208060809515038>' : '\`⚙\`'
+        let arrow = client.db.nitro === true ? ' <:arrow:1274251907002667038> ' : '・'
+        message.edit(client.db.lang === 'fr' ? `» **__Help Settings__** ${title}\n\n***Voir la latence de __T2G__***${arrow}\`${client.db.prefix}ping\`\n***Redémarre __T2G__***${arrow}\`${client.db.prefix}restart\`\n***Update __T2G__***${arrow}\`${client.db.prefix}update\`\n\n***Change la langue de __T2G__***${arrow}\`${client.db.prefix}setlang <fr/en>\`\n***Change le prefix de __T2G__***${arrow}\`${client.db.prefix}setprefix <prefix>\`\n***Change le lien twitch***${arrow}\`${client.db.prefix}setusername <link/name>\`\n***Change la plateforme de __T2G__***${arrow}\`${client.db.prefix}setspoof <mobile/console/desktop/web>\`\n\n***Active ou désactive le nitro sniper***${arrow}\`${client.db.prefix}nitrosniper <on/off>\`` : `» **__Help Settings__** ${title}\n\n***View the latency of __T2G__***${arrow}\`${client.db.prefix}ping\`\n***Restart __T2G__***${arrow}\`${client.db.prefix}restart\`\n***Update __T2G__***${arrow}\`${client.db.prefix}update\`\n\n***Change the language of __T2G__***${arrow}\`${client.db.prefix}setlang <fr/en>\`\n***Change the prefix of __T2G__***${arrow}\`${client.db.prefix}setprefix <prefix>\`\n***Change the Twitch link***${arrow}\`${client.db.prefix}setusername <link/name>\`\n***Change the platform of __T2G__***${arrow}\`${client.db.prefix}setspoof <mobile/console/desktop/web>\`\n\n***Enable or disable Nitro Sniper***${arrow}\`${client.db.prefix}nitrosniper <on/off>\``)
+
+    }
+}

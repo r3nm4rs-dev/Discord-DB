@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Orbitron', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://i.ibb.co/XjBqXMB/toiles.gif') no-repeat center center/cover;
+    overflow: hidden;
+    flex-direction: column;
+    color: #fff;
+    position: relative;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+    animation: fadeIn 1.5s ease-in-out;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    position: relative;
+}
+
+.welcome-message {
+    font-size: 1.5rem;
+    color: #00ffea;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(0, 255, 234, 0.9), 0 0 20px rgba(0, 255, 234, 0.8);
+}
+
+.container h1 {
+    font-size: 2.8rem;
+    color: #00ffea;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+    text-shadow: 0 0 15px rgba(0, 255, 234, 0.9), 0 0 25px rgba(0, 255, 234, 0.8);
+}
+
+.container label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.container input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: none;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    font-size: 1rem;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+    outline: none;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+.container input:focus {
+    background: rgba(0, 255, 234, 0.1);
+    box-shadow: 0 0 10px rgba(0, 255, 234, 0.8);
+}
+
+.container button {
+    width: 100%;
+    background: linear-gradient(45deg, #00ffea, #00e6cf);
+    color: #000;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+.container button:hover {
+    background: linear-gradient(45deg, #00e6cf, #00ffea);
+    box-shadow: 0 0 20px rgba(0, 255, 234, 0.7), 0 0 30px rgba(0, 255, 234, 0.8);
+}
+
+.message {
+    margin-top: 15px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}

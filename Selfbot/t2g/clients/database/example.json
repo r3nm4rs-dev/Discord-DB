@@ -1,0 +1,13 @@
+{
+    "nitro": false,
+    "spoof": "Client",
+    "lang": "fr",
+    "prefix": "&",
+    "time": 150000,
+    "status": "dnd",
+    "rpc": {},
+    "spotify": {},
+    "voice": {},
+    "multistatus": {},
+    "multirpc": {}
+}
