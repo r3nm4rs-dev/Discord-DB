@@ -1,9 +1,9 @@
+# Dm me on discord if I forgot credits
+-  Not not use the bots and skid
 
-## Manager
+
+## Maintener
 
 - [@r3nm4rss](https://www.github.com/r3nm4rs-dev)
-
-# I won't gave credits for all because their is too much :)
-
 *  Server : https://discord.gg/VKBeRC4TJD
 *  Website For Tutorials : https://r3-help.netlify.app/
