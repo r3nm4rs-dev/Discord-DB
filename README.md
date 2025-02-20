@@ -1,6 +1,5 @@
-# Dm me on discord if I forgot credits
--  Not not use the bots and skid
-
+# New Discord Server With All Leaks
+-  https://discord.gg/m4xSQZy9yc
 
 ## Maintener
 
