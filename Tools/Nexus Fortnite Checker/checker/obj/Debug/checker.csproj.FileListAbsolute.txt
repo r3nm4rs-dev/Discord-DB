@@ -1,0 +1,2 @@
+C:\Users\Renaud\Downloads\hrhr\checker\obj\Debug\checker.csproj.AssemblyReference.cache
+C:\Users\Renaud\Downloads\hrhr\checker\obj\Debug\checker.csproj.CoreCompileInputs.cache

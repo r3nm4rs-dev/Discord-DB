@@ -1,0 +1,1758 @@
+{
+    "name": "Kuphaa",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": {
+        "name": "💤 』AFK",
+        "timeout": 300
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "📊 SERVER STATS 📊",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1050624"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🌍 Membre : 1537",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "exp",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1051648"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🚀 discord.gg/kuphaa",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "opti",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1051648"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🌍Membres : 430",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "👑 Staff",
+                "permissions": [
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "1115136",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "👑 KUPHAA",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌』𝗔𝗻𝗻𝗼𝗻𝗰𝗲-𝗦𝘁𝗮𝗳𝗳",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "115776",
+                                "deny": "274877908992"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "📣 Reunion",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👑 Staff",
+                        "permissions": [
+                            {
+                                "roleName": "Monteurs",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Clippeur",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬』𝗚𝗲𝗻𝗲𝗿𝗮𝗹",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "1117184",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📁』𝗟𝗼𝗴𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "36816448",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📁』𝗟𝗼𝗴𝘀-𝗿𝗮𝗶𝗱𝗽𝗿𝗼𝘁𝗲𝗰𝘁",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "36816448",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎹』commande",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "305253968",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "staffs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👑 Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Perm",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔐| Informations",
+                "permissions": [
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "275683216400",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "👑 KUPHAA",
+                        "allow": "2048",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "137439331392",
+                        "deny": "17985320977"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌』𝗔𝗻𝗻𝗼𝗻𝗰𝗲",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "134144",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439331392",
+                                "deny": "17985320977"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📙』𝗥𝗲𝗴𝗹𝗲𝗺𝗲𝗻𝘁",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439331392",
+                                "deny": "17985320977"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "275683216400",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "🎥』𝐒𝐭𝐫𝐞𝐚𝐦",
+                        "nsfw": false,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "MEE6",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "YAGPDB.xyz",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "805316624"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📸』tiktok",
+                        "nsfw": false,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "YAGPDB.xyz",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "805316624"
+                            },
+                            {
+                                "roleName": "MEE6",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📸』youtube",
+                        "nsfw": false,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "MEE6",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "805316624"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "YAGPDB.xyz",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌』programmes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439331392",
+                                "deny": "17985320977"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "268569616",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔴』𝐂𝐥𝐢𝐩𝐬-𝐒𝐭𝐫𝐞𝐚𝐦",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439333440",
+                                "deny": "17985318929"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "3072",
+                                "deny": "268435472"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎉』𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔐| Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "275683216400",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Twitch Subscriber",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Monteurs",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439331392",
+                                "deny": "17985320977"
+                            },
+                            {
+                                "roleName": "VIP 💎",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "PARTENAIRE",
+                "permissions": [
+                    {
+                        "roleName": "👑 KUPHAA",
+                        "allow": "3072",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "⚔️Gérant Staff",
+                        "allow": "3072",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝』𝗣𝗮𝗿𝘁𝗲𝗻𝗮𝗿𝗶𝗮𝘁𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PARTENAIRE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2112"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⚔️Gérant Staff",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝』𝗖𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PARTENAIRE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⚔️Gérant Staff",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝』𝗻𝗼𝘁𝗿𝗲-𝗽𝘂𝗯",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PARTENAIRE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⚔️Gérant Staff",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝』𝗧𝗶𝗰𝗸𝗲𝘁",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PARTENAIRE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66624",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔫』Optimisation Windows",
+                "permissions": [
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66625",
+                        "deny": "535529191440"
+                    },
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "378762497041",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "tarif",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔫』Optimisation Windows",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "378762497041",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "535529191440"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "avis-opti",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔫』Optimisation Windows",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Twitch Subscriber",
+                                "allow": "66624",
+                                "deny": "2049"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Customers Promotions",
+                                "allow": "68672",
+                                "deny": "131072"
+                            },
+                            {
+                                "roleName": "Opti lvl 25",
+                                "allow": "68608",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "274877908992",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Customers",
+                                "allow": "117824",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📨』𝗧𝗶𝗰𝗸𝗲𝘁",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔫』Optimisation Windows",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66624",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "COMMUNITY",
+                "permissions": [
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "268436496",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "3214336",
+                        "deny": "834797584"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌐』𝐆é𝐧é𝐫𝐚𝐥",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3214336",
+                                "deny": "834797584"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "268436496",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "#𝟏",
+                        "bitrate": 64000,
+                        "userLimit": 5,
+                        "parent": "COMMUNITY",
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3214336",
+                                "deny": "834797584"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "268436496",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "#𝟐",
+                        "bitrate": 64000,
+                        "userLimit": 5,
+                        "parent": "COMMUNITY",
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "268436496",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3214336",
+                                "deny": "834797584"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📸』𝐦𝐞𝐝𝐢𝐚𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 900,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3230720",
+                                "deny": "834797584"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "268436496",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "💤 』AFK",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "COMMUNITY",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1115136",
+                                "deny": "698802961232"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "👑  Private",
+                "permissions": [
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "1088840789825",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "549791465984",
+                        "deny": "8620344320"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑』 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐌𝐨𝐝𝐨",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👑  Private",
+                        "permissions": [
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "549821875712",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "549791465984",
+                                "deny": "8620344320"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔴 』𝐎𝐧 𝐒𝐭𝐫𝐞𝐚𝐦",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👑  Private",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "549791467008",
+                                "deny": "8620343296"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "66061824",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑 Optimisation",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👑  Private",
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2098688",
+                                "deny": "1048576"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "💫 』𝐀𝐭𝐭𝐞𝐧𝐭𝐞 𝐌𝐨𝐨𝐯",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👑  Private",
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1051648",
+                                "deny": "31588352"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "KUPHHA PACK 👑",
+                "permissions": [
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "65536",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "pack-subs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "KUPHHA PACK 👑",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Twitch Subscriber",
+                                "allow": "66624",
+                                "deny": "2049"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "274877908992",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "lvl-25",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "KUPHHA PACK 👑",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Level 25",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "lvl12",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "KUPHHA PACK 👑",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "level 12",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "OP-TWITCH",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "help-op",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "OP-TWITCH",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "67584",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "op",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "OP-TWITCH",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439330368",
+                                "deny": "17985322001"
+                            },
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "134144",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "tuto",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "OP-TWITCH",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "134144",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439330368",
+                                "deny": "17985322001"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "recompenses",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "OP-TWITCH",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🔒 Staff",
+                                "allow": "134144",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439330368",
+                                "deny": "17985322001"
+                            },
+                            {
+                                "roleName": "👑 KUPHAA",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Non vérifié",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "🎫』𝗜𝗻𝘃𝗶𝘁𝗲",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "2112"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "⚡』𝗔𝗰𝗰𝘂𝗲𝗶𝗹",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "2112"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "💡』𝗨𝗽𝗱𝗮𝘁𝗲",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "36817472",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👑 KUPHAA",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "verification",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "Non vérifié",
+                        "allow": "68608",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-1647",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "🔒 Staff",
+                        "allow": "3072",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "👑 KUPHAA",
+            "color": "#070606",
+            "hoist": true,
+            "permissions": "8798239981567",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "🤖 Bot",
+            "color": "#a36b00",
+            "hoist": false,
+            "permissions": "109625855561",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "Perm",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "⚔️Gérant Staff",
+            "color": "#25ff00",
+            "hoist": true,
+            "permissions": "138538465099775",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "Opti lvl 25",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "1m HDV5",
+            "color": "#1abc9c",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "Level 25",
+            "color": "#e74c3c",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "level 12",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "🔒 Staff",
+            "color": "#ff0003",
+            "hoist": true,
+            "permissions": "10292754382679",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "🤝Partenaires",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "Monteurs",
+            "color": "#ab00ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "Clippeur",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "VIP 💎",
+            "color": "#fff800",
+            "hoist": true,
+            "permissions": "67108864",
+            "mentionable": true,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "Customers",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "Customers Promotions",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "Non vérifié",
+            "color": "#99aab5",
+            "hoist": false,
+            "permissions": "66560",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "532163664907841",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1701563212691,
+    "guildID": "791728705893433384",
+    "id": "1180666430241243136",
+    "iconURL": "https://cdn.discordapp.com/icons/791728705893433384/013b71aced32384b581d430979234e43.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/791728705893433384/e913be6b61f6e77ea214d9acb2304aba.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/791728705893433384/4904245205c2e5610eed572488b1b8ae.webp"
+}

@@ -1,0 +1,3496 @@
+{
+    "name": "KS PVP | #🇵🇸",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Information - KS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1088",
+                        "deny": "377957124096"
+                    },
+                    {
+                        "roleName": "・EM",
+                        "allow": "3072",
+                        "deny": "377957122048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "🔔・announcement",
+                        "nsfw": false,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📷・spoils",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# 35 REACT = NEXT SPOIL !! ||@everyone||",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T20:56:34.634Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "# Pour l'open les golds et diamonds sont a -30% profiters en",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T20:56:18.329Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# 30 REACT = NEXT SPOIL !! ||@everyone||",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T02:25:27.576Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# De gros changement sont prévue pour la main safezone soyez a l'affut !!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T02:18:52.252Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# Tenez l'équipe SPOIL des safezone !! ||@everyone||",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T02:17:45.568Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# 25 REACT = SPOIL !! ||@everyone||",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T18:17:28.890Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# Tenez l'équipe SPOIL des effect disponible pour les gold / diamonds !! ||@everyone||",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "particules.mp4",
+                                        "attachment": "https://cdn.discordapp.com/attachments/1170081619315540108/1171191155136933991/particules.mp4?ex=655bc7c3&is=654952c3&hm=033d71790107004cf67aa620e3029e66e7d51cca768f9dc2b7f36a9e66c9f140&"
+                                    }
+                                ],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T20:55:32.379Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "safezone.mp4",
+                                        "attachment": "https://cdn.discordapp.com/attachments/1170081619315540108/1170547531009237022/safezone.mp4?ex=65597057&is=6546fb57&hm=b3b9add7c04debe51aa0eaeff87f95d0c7587f193d0ffd98cbbb51aae5c6a768&"
+                                    }
+                                ],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T02:17:59.971Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👋・welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​xigua_0719",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T13:29:58.150Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​mayanq",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T10:03:45.180Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kirchak.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T21:35:59.440Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​weefnt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T20:25:08.403Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​dxvizinn3007",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:20:50.695Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sergei.gf",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T15:11:40.111Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kayt33",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T05:30:04.214Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​bishokuu00",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T05:12:34.603Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kirchak.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T02:08:35.247Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​zkr_zkc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T20:46:38.287Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sqlspydeck",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:23:50.023Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​snow_.65",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:14:15.865Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sbdjejejeeh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:12:55.882Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​7_swezy",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:12:21.227Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​.flond",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:10:11.112Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ddjdjdbdjdjzd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:05:21.346Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sp.mathh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:06:55.622Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ashiramaalevrai",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:04:30.804Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​samy69400",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T16:54:23.895Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​nayzinho",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T16:51:25.282Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​1touchable.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T16:39:34.250Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​.tayzyx",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:52:37.113Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​vixole",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T01:10:17.547Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​.amine00",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T00:35:31.552Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​T w i l i g h t",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T20:52:18.055Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​Goshic",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T18:44:58.792Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​spirit9420",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T17:33:01.873Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​quoikoubah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T16:50:50.660Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​mayanq",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T01:31:32.180Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kubi0001",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-05T00:27:28.222Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​100blazeontop",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T23:08:17.884Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​maess91",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T21:39:09.974Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​i_need_more_bullets.667",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T20:00:37.308Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​uchristian",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T19:32:26.709Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​inlayx7215",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T12:02:39.402Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​rynox16",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T11:46:18.704Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​i_need_more_bullets.667",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T10:29:05.705Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​i_need_more_bullets.667",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T10:18:30.483Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​darkqli.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T09:28:39.513Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​bobo450",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T09:17:00.721Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ladepop.exe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T08:47:57.959Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​retourdeolive",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T07:27:52.225Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​emeric_mgt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T05:42:05.057Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sqlxxx",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:39:16.567Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sqlkza",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:34:27.331Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​noxytub",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T01:33:17.444Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​azejhy6",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T01:11:39.094Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​latige1",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T01:08:57.132Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ines19.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T00:50:17.568Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​teleguidemonopoliser",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T00:06:20.422Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T00:05:47.627Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ayze_xx",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T00:03:59.972Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​teleguidemonopoliser",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:59:52.453Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​soso.dz69",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:59:12.955Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sqlspydeck",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:53:05.190Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​notrayes",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:52:26.007Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​martino2233",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:43:52.859Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​c74u",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T21:35:09.437Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​v8sv",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T21:27:43.835Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​saykoomm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T21:00:20.025Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​pespi_",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T20:19:35.684Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​raed.ttv",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T20:12:36.353Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​samgreatex5",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T20:06:24.596Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​OweN",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:21:51.588Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​KS PLAYER",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:17:48.542Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​babpo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:09:28.806Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kenzyyy8",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:08:20.324Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​y.h69",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:05:08.970Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​[+] Protect",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:04:47.149Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kazanscm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T19:00:08.350Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​.ne3d",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T18:59:35.753Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​kazanscm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T18:58:40.632Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​jean.exepp0000",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T18:56:08.371Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​skyserr",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T18:49:00.824Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​askow33",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T18:11:09.464Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​pimouss.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T17:39:37.173Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​10h44",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T15:01:37.480Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​bahahah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T14:44:26.349Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sklaitasddfrsmp4",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T14:43:02.850Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​pxklin",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T14:01:20.085Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​elianaallison44",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T13:57:26.244Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​eapy23",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T13:19:20.847Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​el_tunisiano",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T12:41:53.330Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​Icanfly_Day",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T11:44:10.237Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​sbdjejejeeh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T11:10:34.268Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​lebytb",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T11:00:21.595Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​krokyw3b",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T10:14:31.775Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​nekrozcomeback",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T10:03:51.555Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​falz13",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T10:03:31.691Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ladepop.exe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T09:56:55.836Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ddjdjdbdjdjzd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T09:38:15.186Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​alentejano5962",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T09:26:49.261Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ryanbosu",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T08:22:24.332Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​ddjdjdbdjdjzd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T08:05:37.503Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​souk451",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T03:42:28.294Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​byoki_i",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T03:34:23.881Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​314x",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T01:54:46.574Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​predator4775",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T01:28:44.159Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​.nassim666",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T01:00:24.624Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Welcome @​beyonce_l",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T00:43:44.354Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📊・server-status",
+                        "nsfw": false,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📋・rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": "Rule of Neverdiepvp",
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "🇫🇷  Bonjour a tous @everyone, Voici le Règlement actuel de KS PvP, Merci d'en prendre connaissance et de l'appliquer. \n\nhttps://docs.google.com/document/d/1zr5q1pX4m7egPr7gT9UqCaFF19iHiScy_v-c_BjSmMA/edit?usp=sharing\n\n🇺🇸 Hello everyone @everyone, Here is the current Rules of KS PvP, Please read and apply them. \n\nhttps://docs.google.com/document/d/1zr5q1pX4m7egPr7gT9UqCaFF19iHiScy_v-c_BjSmMA/edit?usp=sharing",
+                                "embeds": [
+                                    {
+                                        "title": "Rules of KS PVP",
+                                        "type": "rich",
+                                        "description": "Rules of KS PVP    1.0 Use of Rooms  Each room has a very specific purpose, and it is important to use them correctly. If this is not respected, sanctions will be applied.  Chaque salon a une fonctionnalité bien précise et il est important de les utiliser correctement. Si c...",
+                                        "url": "https://docs.google.com/document/d/1zr5q1pX4m7egPr7gT9UqCaFF19iHiScy_v-c_BjSmMA/edit?usp=sharing",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyJoYcHO8Z2_elRfhQaTFpKztCtFkKzdQ8pzlG46IqLjleZTeDeiHlmib5Z6i5Z98btvfB3QzdSWLnN7rr6A3SLHlkESQ19ykrXdWUTUqSCu4w=w1200-h630-p",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/WzUy449ncO1m2jgaflYQY7RNlP27z3A4Y--yZSBlSxg/https/lh7-us.googleusercontent.com/docs/AHkbwyJoYcHO8Z2_elRfhQaTFpKztCtFkKzdQ8pzlG46IqLjleZTeDeiHlmib5Z6i5Z98btvfB3QzdSWLnN7rr6A3SLHlkESQ19ykrXdWUTUqSCu4w%3Dw1200-h630-p",
+                                            "height": 630,
+                                            "width": 1200
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-02T21:24:31.987Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⛔・unban-request",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📈・unban-result",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝・staff-recruitment",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💻・development",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💝・shop",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🙋・polls",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎁・giveaway",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀・boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T15:40:32.493Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "Merci @​qsqsfqsfqsdfsqdfsdgzesdf !!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T18:05:55.319Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T18:05:07.238Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T18:05:03.124Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "Bv @​kirchak.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T17:56:58.661Z"
+                            },
+                            {
+                                "username": "kirchak.",
+                                "avatar": "https://cdn.discordapp.com/avatars/1156981212162826331/9373e6015967660528d38df7db4b12ec.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T17:56:44.138Z"
+                            },
+                            {
+                                "username": "kirchak.",
+                                "avatar": "https://cdn.discordapp.com/avatars/1156981212162826331/9373e6015967660528d38df7db4b12ec.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T17:56:36.996Z"
+                            },
+                            {
+                                "username": "kirchak.",
+                                "avatar": "https://cdn.discordapp.com/avatars/1156981212162826331/9373e6015967660528d38df7db4b12ec.webp",
+                                "content": "Merci pour ton boost @​bahahah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T17:48:13.323Z"
+                            },
+                            {
+                                "username": "bahahah",
+                                "avatar": "https://cdn.discordapp.com/avatars/789427949815857182/a7539a3020ca843165c577e3b63f9567.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T17:47:13.473Z"
+                            },
+                            {
+                                "username": "bahahah",
+                                "avatar": "https://cdn.discordapp.com/avatars/789427949815857182/a7539a3020ca843165c577e3b63f9567.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T16:15:14.562Z"
+                            },
+                            {
+                                "username": "314x",
+                                "avatar": "https://cdn.discordapp.com/avatars/1144526459814285323/6ce3b01db821574a4597d64930e6b5f1.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T02:06:22.638Z"
+                            },
+                            {
+                                "username": "togepi.",
+                                "avatar": "https://cdn.discordapp.com/avatars/742812923763753120/6247eed817adc58e5ad5d90590b99472.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-02T22:57:00.573Z"
+                            },
+                            {
+                                "username": "antagonistefouuuu",
+                                "avatar": "https://cdn.discordapp.com/avatars/955900838927298681/9cbf23f8437eec39e1a92b3133a98566.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-01T18:17:19.152Z"
+                            },
+                            {
+                                "username": "antagonistefouuuu",
+                                "avatar": "https://cdn.discordapp.com/avatars/955900838927298681/9cbf23f8437eec39e1a92b3133a98566.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-01T18:17:15.026Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💝・soutiens",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Information - KS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1088",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "# **TU VEUT NOUS SOUTENIR SANS PAYER ?**\n\n__ta juste a mettre une des ces 3 url en status !__\n\n- discord.gg/kspvp\n- .gg/kspvp\n- /kspvp\n\n**Tu obtiendra le rôle @・.gg/kspvp automatiquement par @​KSPVP **\n\n||@everyone||",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T20:28:22.673Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "event",
+                "permissions": [
+                    {
+                        "roleName": "・Event Manager",
+                        "allow": "3072",
+                        "deny": "377957122048"
+                    },
+                    {
+                        "roleName": "・EM",
+                        "allow": "3072",
+                        "deny": "377957122048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✨・event",
+                        "nsfw": false,
+                        "rateLimitPerUser": 7200,
+                        "parent": "event",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "・Event Manager",
+                                "allow": "3072",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "public - ks",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "3072",
+                        "deny": "16384"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-fr",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "un boug de 12 ans en staff manager ? non mais au on es ou la",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:52:34.925Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "t'es fou toi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:52:21.261Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "pwahahah croit le",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:52:18.272Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "il est staff manager",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:40:54.876Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "pk le BL @​antagonistefouuuu",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:40:50.340Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "ddjdjdbdjdjzd a été ajouté à la blacklist\nIl a été kick de mes serveurs, il ne pourra plus rejoindre de serveur contenant le bot.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:22:50.607Z"
+                            },
+                            {
+                                "username": "antagonistefouuuu",
+                                "avatar": "https://cdn.discordapp.com/avatars/955900838927298681/9cbf23f8437eec39e1a92b3133a98566.webp",
+                                "content": "+bl 1152886676390158377",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-08T14:22:49.995Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Wd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T18:57:35.519Z"
+                            },
+                            {
+                                "username": ".nassim666",
+                                "avatar": "https://cdn.discordapp.com/avatars/1104534572290543722/87318ac080fd97bd14326913209cb390.webp",
+                                "content": "@​._badkarma pk je suis plus staff",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T18:24:00.951Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:49:11.045Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "@​._badkarma tu as cru quoi sale rdm debloque",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:47:03.079Z"
+                            },
+                            {
+                                "username": "notrayes",
+                                "avatar": "https://cdn.discordapp.com/avatars/774627612705161258/566c76025a9ad3599ec3de9e95ebe728.webp",
+                                "content": "OK",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:29:24.885Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Bientôt bb",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:29:17.226Z"
+                            },
+                            {
+                                "username": "notrayes",
+                                "avatar": "https://cdn.discordapp.com/avatars/774627612705161258/566c76025a9ad3599ec3de9e95ebe728.webp",
+                                "content": "SA OPEN QAUND",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T17:29:09.073Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Sorry",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T16:44:54.240Z"
+                            },
+                            {
+                                "username": "auyrtauyrtrfdzauyuyzagfiuzagiuga",
+                                "avatar": "https://cdn.discordapp.com/avatars/1067909055680626688/7a625f8d5c9c70982f950fdfe96bbfee.webp",
+                                "content": "Art de ping",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T16:44:48.811Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Mes perm stp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T16:07:43.655Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​sp_morish",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T16:06:58.742Z"
+                            },
+                            {
+                                "username": "auyrtauyrtrfdzauyuyzagfiuzagiuga",
+                                "avatar": "https://cdn.discordapp.com/avatars/1067909055680626688/7a625f8d5c9c70982f950fdfe96bbfee.webp",
+                                "content": "Oe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T15:58:04.028Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "@​auyrtauyrtrfdzauyuyzagfiuzagiuga",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T15:57:29.422Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "+help",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 1382896,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "auyrtauyrtrfdzauyuyzagfiuzagiuga#0",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/1067909055680626688/7a625f8d5c9c70982f950fdfe96bbfee.webp"
+                                        },
+                                        "footer": {
+                                            "text": "© SupremeBots 2023 by 0212"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T15:57:14.989Z"
+                            },
+                            {
+                                "username": "sp_morish",
+                                "avatar": "https://cdn.discordapp.com/avatars/1159045325676347403/a_462f17577bf89795b7df95704aac593b.webp",
+                                "content": "+snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T15:57:14.797Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T14:25:35.387Z"
+                            },
+                            {
+                                "username": "KSPVP",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169072793267228783/672479e73d150c3ff64f7919a3b15205.webp",
+                                "content": "Vous n'avez pas la permission d'utiliser cette commande.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T14:24:19.837Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​sp_morish",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T13:50:30.351Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-07T13:50:18.237Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "❤️",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T20:05:01.780Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "oue tkt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:54:36.114Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Et regarde tes role armada continu",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:52.502Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Merci",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:42.365Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "trkl",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:38.519Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "on va te les remettre",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:35.147Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We dsl",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:33.754Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "art de spam dans le chat pour tes perm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:53:28.387Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Ah mes perm Zebi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:52:58.701Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​._badkarma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:22:49.209Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "att",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:17:45.537Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​._badkarma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:16:53.433Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:15:31.261Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Wd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:07:36.814Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T19:05:57.763Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​sp_morish",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:39:53.213Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "Az",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:35:33.654Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "Trkl tkt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:21:51.894Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:20:32.487Z"
+                            },
+                            {
+                                "username": "auyrtauyrtrfdzauyuyzagfiuzagiuga",
+                                "avatar": "https://cdn.discordapp.com/avatars/1067909055680626688/7a625f8d5c9c70982f950fdfe96bbfee.webp",
+                                "content": "tu peut art de ping stp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:19:27.829Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​._badkarma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:17:53.489Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:15:25.916Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "@​._badkarma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:07:03.179Z"
+                            },
+                            {
+                                "username": "ddjdjdbdjdjzd",
+                                "avatar": "https://cdn.discordapp.com/avatars/1152886676390158377/430231e3717f68e46463565e9e010567.webp",
+                                "content": "We",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T18:05:33.971Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "allez toi aussi suce mon chibre sombre pute",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:09:13.733Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Je te bz salope",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:56.426Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Tu crois tes puissants ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:49.792Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Bah suce mon chibre",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:43.546Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "??",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:38.211Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "tu veux y passer toi aussi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:36.183Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "mdr",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:29.230Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Évite de kick les gens",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:15.539Z"
+                            },
+                            {
+                                "username": "sp.mathh",
+                                "avatar": "https://cdn.discordapp.com/avatars/1068948260955357244/86e5207d674979d57208445ba4468bb8.webp",
+                                "content": "Random",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:08:09.011Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "va ecouter de la funk",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:33.279Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "cette thailandaise",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:19.714Z"
+                            },
+                            {
+                                "username": "ashiramaalevrai",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169037830014652512/982e25022b5f8f306ad112886a03cb47.webp",
+                                "content": "t ki rzndom ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:17.909Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "ta daronne qui se fais dechirer le zeub",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:16.011Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "bouffe mon chibre",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:07.041Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "tg",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:07:02.948Z"
+                            },
+                            {
+                                "username": "ashiramaalevrai",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169037830014652512/982e25022b5f8f306ad112886a03cb47.webp",
+                                "content": "votre serveur du slp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:06:49.493Z"
+                            },
+                            {
+                                "username": "ashiramaalevrai",
+                                "avatar": "https://cdn.discordapp.com/avatars/1169037830014652512/982e25022b5f8f306ad112886a03cb47.webp",
+                                "content": "tg",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T17:06:43.176Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Jme fait chier ma meuf dort en plus",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T03:00:03.622Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "je vais pisser",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:34.621Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "att",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:28.198Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "En voc 1",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:24.101Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "ou",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:22.198Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Vien",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:19.481Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "il ma cmm rien",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:11.628Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "il ma verif et j'avais rien",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:59:01.612Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Mdr",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:59.436Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "je suis ban perm serveur et discord pour no recoil",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:52.083Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Mm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:46.786Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "tu vois ayze pvp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:27.569Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Okok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:24.071Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "mais jarv pas a dormir pour l rentrer donc je vais sur le pc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:58:11.444Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "trql",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:57:45.768Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Sa va ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:57:34.938Z"
+                            },
+                            {
+                                "username": "spylock_",
+                                "avatar": "https://cdn.discordapp.com/avatars/1113116544931725413/f47723202a6dc29522a4228ae3b16af1.webp",
+                                "content": "Wsh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:57:31.004Z"
+                            },
+                            {
+                                "username": ".tayzyx",
+                                "avatar": "https://cdn.discordapp.com/avatars/1107690629124857899/a4fbfb7ebb0a3a761c105b7690688ce2.webp",
+                                "content": "@​spylock_  wsh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-06T02:55:52.276Z"
+                            },
+                            {
+                                "username": "ladepop.exe",
+                                "avatar": "https://cdn.discordapp.com/avatars/1145314198369341550/a6d80e75310298ab3c73e917aaa23633.webp",
+                                "content": ".",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T08:48:35.013Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "Hum ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T03:00:26.973Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "Ww et ? J’en fou quoi de cette info ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:59:58.709Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "??",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:59:13.847Z"
+                            },
+                            {
+                                "username": "noxytub",
+                                "avatar": "https://cdn.discordapp.com/avatars/1014149279780196432/92fb84e47068bea214bce84665407a53.webp",
+                                "content": "il dort bg",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:57:02.998Z"
+                            },
+                            {
+                                "username": "noxytub",
+                                "avatar": "https://cdn.discordapp.com/avatars/1014149279780196432/92fb84e47068bea214bce84665407a53.webp",
+                                "content": "bas pas besoin de le ping pourquoi faire",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:56:46.947Z"
+                            },
+                            {
+                                "username": "noxytub",
+                                "avatar": "https://cdn.discordapp.com/avatars/1014149279780196432/92fb84e47068bea214bce84665407a53.webp",
+                                "content": "oue ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:56:28.376Z"
+                            },
+                            {
+                                "username": "qsqsfqsfqsdfsqdfsdgzesdf",
+                                "avatar": "https://cdn.discordapp.com/avatars/646677319452196874/ff9f1400a9025eace155fd304b295560.webp",
+                                "content": "😂🤣",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:27:04.314Z"
+                            },
+                            {
+                                "username": "noxytub",
+                                "avatar": "https://cdn.discordapp.com/avatars/1014149279780196432/92fb84e47068bea214bce84665407a53.webp",
+                                "content": "tg toi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-04T02:03:21.802Z"
+                            },
+                            {
+                                "username": "notrayes",
+                                "avatar": "https://cdn.discordapp.com/avatars/774627612705161258/566c76025a9ad3599ec3de9e95ebe728.webp",
+                                "content": "sa ouvre quand",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:52:48.057Z"
+                            },
+                            {
+                                "username": "notrayes",
+                                "avatar": "https://cdn.discordapp.com/avatars/774627612705161258/566c76025a9ad3599ec3de9e95ebe728.webp",
+                                "content": "@​qsqsfqsfqsdfsqdfsdgzesdf",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:52:42.219Z"
+                            },
+                            {
+                                "username": "auyrtauyrtrfdzauyuyzagfiuzagiuga",
+                                "avatar": "https://cdn.discordapp.com/avatars/1067909055680626688/7a625f8d5c9c70982f950fdfe96bbfee.webp",
+                                "content": "K9 ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:52:04.620Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "Avec des fights cara spé et tt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:49:46.609Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "Et genre c une K9",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:49:39.953Z"
+                            },
+                            {
+                                "username": "._badkarma",
+                                "avatar": "https://cdn.discordapp.com/avatars/973674763752968262/32a30f5ec5c04d40ddaaee1e2d32861d.webp",
+                                "content": "Y'a pas les pistolers",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2023-11-03T23:49:33.956Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・Vocal 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "public - ks",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📸・média",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "19456",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・Vocal 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "public - ks",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・Vocal 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "public - ks",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💡・suggestion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 3600,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・Vocal 4",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "public - ks",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・report-cheater",
+                        "nsfw": false,
+                        "rateLimitPerUser": 30,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎬・clip",
+                        "nsfw": false,
+                        "rateLimitPerUser": 1800,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥・stream",
+                        "nsfw": false,
+                        "rateLimitPerUser": 3600,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "19456",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔫・crew",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "public - ks",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "16384"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Support - KS PVP",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔎・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Support - KS PVP",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "bot staff",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝・commande-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "bot staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・spam-bot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "bot staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💻・bot-ig",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "bot staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Staff",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔔・annonce-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "・EM",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📑・règlement-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📋・liste-ban",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-admin",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-resp",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👮・suspicion-cheater",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❌・absence",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥・clip-ban",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎓・refund",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Staff Team",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "refund",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "giveaway",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "shop",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "Others",
+                "permissions": [
+                    {
+                        "roleName": "・Staff Team",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": "JOIN = BL",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "・Friends",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・EM",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・Gérant Serveur",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderator-only",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "JOIN = BL",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "・Friends",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・EM",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・Gérant Serveur",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "unban",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "JOIN = BL",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "・Friends",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・EM",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "・Gérant Serveur",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "@root",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "s",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "KS PVP - Bot",
+            "color": "#e74c3c",
+            "hoist": true,
+            "permissions": "1024",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "Stats",
+            "color": "#e74c3c",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "・EM",
+            "color": "#050000",
+            "hoist": true,
+            "permissions": "1071698538049",
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "@bvr.",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": ".",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "418913124876233",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "・Gérant Serveur",
+            "color": "#080505",
+            "hoist": true,
+            "permissions": "137438953471953",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "・Developer",
+            "color": "#030000",
+            "hoist": true,
+            "permissions": "204481063",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "・Staff Manager",
+            "color": "#030000",
+            "hoist": true,
+            "permissions": "40671326895937",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "・Unban Manager",
+            "color": "#070000",
+            "hoist": true,
+            "permissions": "8192",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "・Administrator",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "1069714763713",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "・Event Manager",
+            "color": "#e16fff",
+            "hoist": true,
+            "permissions": "8192",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "・Graphic Designer",
+            "color": "#e16fff",
+            "hoist": false,
+            "permissions": "8192",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "・Moderator",
+            "color": "#150b96",
+            "hoist": true,
+            "permissions": "1069714761665",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "・Moderator Test",
+            "color": "#0b73ca",
+            "hoist": true,
+            "permissions": "554318424001",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "・Support",
+            "color": "#00c0ff",
+            "hoist": true,
+            "permissions": "4326565376",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "・Staff Team",
+            "color": "#e1ff00",
+            "hoist": false,
+            "permissions": "4295101440",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "・Contributor",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": "64",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "・.gg/kspvp",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "64",
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "・Friends",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": "64",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "・Member",
+            "color": "#e74c3c",
+            "hoist": true,
+            "permissions": "691560353345",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "Bot",
+            "color": "#1f8b4c",
+            "hoist": true,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "fr",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "en",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "MEE6",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "364870364383",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "VoiceMaster",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "288374873",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "246844759589441",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "nouveau rôle",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "533235326373441",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1699463600643,
+    "guildID": "1166157525192822784",
+    "id": "1171860019029868545",
+    "iconBase64": "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",
+    "iconURL": "https://cdn.discordapp.com/icons/1166157525192822784/297e382a4c290c61fa230c51ba9d7efc.webp",
+    "splashBase64": "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",
+    "splashURL": "https://cdn.discordapp.com/splashes/1166157525192822784/69391ea0c04bb874b682c6aad565d65d.webp",
+    "bannerBase64": "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",
+    "bannerURL": "https://cdn.discordapp.com/banners/1166157525192822784/64a8d5697f16e169caf989cc0062a6e8.webp"
+}
