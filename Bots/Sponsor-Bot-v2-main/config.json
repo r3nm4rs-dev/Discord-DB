@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "prefix": "!",
+    "emoji": "- ",
+    
+    "wlrole": "",
+    "helperRole": "",
+    "guildId": "",
+    "logChannel": "",
+
+    "embedColor": "FF0000",
+    "helpimg": "https://i.imgur.com/1VVAVo5.gif",
+    "m_AlreadyPubing_title": ":x: The bot is already used in this channel",
+    "m_AlreadyPubing_description": "Stop the current sponsor or wait to make a new one",
+    "m_AlreadyPubing_footer": "Click on the :x: to stop",
+    "m_wl_sucess": "now have acces to Pluzio Sponsor",
+    "m_wl_error": ":x: Cannot find this user",
+    "m_wl_null": ":x: Please ping the user to wl",
+    "m_token_invalide_title": ":x: Token invalid",
+    "m_token_invalid_description": "Maybe your bot is banned, you need to get a new token",
+    "m_pub_s1_stopped": ":x: Stopping advertising",
+    "m_pub_time_stop_title": ":x: No time left",
+    "m_pub_time_stop_description": "Le delai imparti pour l'étape en cours est expiré",
+    "stream": "SponsorBot"
+}

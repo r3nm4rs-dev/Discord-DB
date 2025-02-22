@@ -1,0 +1,26 @@
+{
+  "bot": {
+    "name": "Tempify",
+    "version": "1.0.0"
+  },
+  "embeds": {
+    "colors": {
+      "primary": "#2b2d31",
+      "success": "#57F287",
+      "error": "#ED4245",
+      "warning": "#FEE75C",
+      "info": "#5865F2"
+    },
+    "images": {
+      "logo": "https://tempmail.im/uploads/cover.png"
+    }
+  },
+  "email": {
+    "duration": 3600000,
+    "checkInterval": 2000,
+    "maxPerUser": 2
+  },
+  "cooldowns": {
+    "createEmail": 10000
+  }
+}

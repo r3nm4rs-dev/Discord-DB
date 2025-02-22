@@ -1,0 +1,23 @@
+{
+  "name": "4protect",
+  "version": "1.2",
+  "description": "Un bot Discord pour la gestion des serveurs",
+  "author": "4wip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-fetch-all": "^3.0.2",
+    "discord-giveaways": "5.1.1",
+    "discord.js": "^13.17.1",
+    "discordjs-button-pagination": "^1.0.7",
+    "fs": "^0.0.1-security",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.29.1",
+    "moment-duration": "^0.0.6",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^3.0.0-canary.1",
+    "quick.db": "^7.1.3"
+  }
+}
