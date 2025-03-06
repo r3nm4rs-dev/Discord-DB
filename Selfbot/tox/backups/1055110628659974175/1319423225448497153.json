@@ -1,0 +1,389 @@
+{
+    "name": "Famous or Random #966",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "🔔 ▸ Informations",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "3072",
+                        "deny": "386547212288"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📣・annonces",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔 ▸ Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "386547214336"
+                            },
+                            {
+                                "roleName": "Gerant",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Modérateur",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Co-Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎟・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔 ▸ Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Legendes",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "386547214336"
+                            },
+                            {
+                                "roleName": "Gerant",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Modérateur",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Co-Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌍・general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔 ▸ Informations",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Legendes",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Co-Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Gerant",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Modérateur",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "68608",
+                                "deny": "386547212288"
+                            },
+                            {
+                                "roleName": "Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Famous",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🚩 ▸ VoteToVote",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚩・famous-or-random",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚩 ▸ VoteToVote",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Legendes",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Co-Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Gerant",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Modérateur",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Famous",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚩・legende",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚩 ▸ VoteToVote",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Legendes",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Gerant",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Co-Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Modérateur",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Owner",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2112"
+                            },
+                            {
+                                "roleName": "Famous",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "📬・invitations",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "Owner",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "Gerant",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Co-Owner",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "BOT BOOST",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT = BOT",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Owner",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "Co-Owner",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "Gerant",
+            "color": "#00ffd7",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "Modérateur",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "Legendes",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "Famous",
+            "color": "#f700ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1597184624922177",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734645410645,
+    "guildID": "1319421752421384282",
+    "id": "1319423225448497153",
+    "iconURL": "https://cdn.discordapp.com/icons/1319421752421384282/4e66e99b6298c6f383b880c47c916991.webp"
+}

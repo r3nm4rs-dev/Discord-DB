@@ -1,0 +1,6 @@
+discord.py
+requests
+holehe
+beautifulsoup4
+fake-useragent
+aiohttp

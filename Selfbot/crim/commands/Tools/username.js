@@ -23,7 +23,7 @@ module.exports = {
             "Twitter": `https://twitter.com/${username}`,
         };
 
-        let resultsMessage = "# Crim\n";
+        let resultsMessage = "# Pluzio\n";
 
      
         Object.keys(platforms).forEach(platform => {

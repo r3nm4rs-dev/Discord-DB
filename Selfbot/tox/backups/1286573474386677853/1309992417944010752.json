@@ -1,0 +1,3795 @@
+{
+    "name": "S7B Project #BACK",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "logs",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "raidprotect-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "transcripts",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "117760"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "transcripts",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "117760"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "👋 〃 Bienvenue.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66561",
+                        "deny": "410112266533712"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📚︲règles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 〃 Bienvenue.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66561",
+                                "deny": "410112266533712"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📬︲join",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 〃 Bienvenue.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66561",
+                                "deny": "410112266533712"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❗〃nos-liens",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 〃 Bienvenue.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66561",
+                                "deny": "410112266533712"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "📣 〃 Informations.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "65537",
+                        "deny": "410116561502032"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "sponsorbot",
+                        "nsfw": true,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "sponsoruser",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "bot1-l",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "bot2-cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "owners-only",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✅〃safe",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📯〃explications",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢〃annonces",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📟〃avis",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439282177",
+                                "deny": "128499850607440"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⭐〃premium",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔮〃boosts",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢〃nos-serveurs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📜〃embeds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65537",
+                                "deny": "410116561502032"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "bot-links",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📣 〃 Informations.",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "support",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📩・support",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "support",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🧸〃Publics",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "139586766849",
+                        "deny": "409976974800720"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📥〃whitelist-acces",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "🧸〃Publics",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586766849",
+                                "deny": "409976974800720"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬〃général",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🧸〃Publics",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764801",
+                                "deny": "409976974802768"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖〃cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🧸〃Publics",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586766849",
+                                "deny": "409976974800720"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🚀",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1088",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎊〃event",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764801",
+                                "deny": "409976974802768"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎁〃rewards",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764801",
+                                "deny": "409976974802768"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀〃free-members",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764801",
+                                "deny": "409976974802768"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎊〃drop",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764865",
+                                "deny": "409976974802704"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "prv",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌜〃Membre",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "139586764865",
+                                "deny": "409976974802704"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🍓〃Whitelist",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌・annonce-wl",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑〃Owners",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌・conseil",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎉・giveaway",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・dev-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑〃Owners",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✅・status",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑〃Owners",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌・vote",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📸・tutoriel",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑〃Owners",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💡・suggestion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 7200,
+                        "parent": "🍓〃Whitelist",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🍓﹒Whitelist",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Staff",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・info",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "📞〃Helpeurs",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "terminal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "lienserveur",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "leaves",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👑〃Owners",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": "0",
+                                "deny": "1048640"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "msg",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Tickets",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-3",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-4",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-5",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-6",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-7",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-10",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-12",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-13",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-15",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-16",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-17",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-18",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-19",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-20",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-21",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-28",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-29",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-30",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-32",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-33",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-34",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-35",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-36",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-37",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-39",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-40",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-41",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Support",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Tickets",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Checker",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor Bot",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sponsor User",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ra1d",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "﹒S7B BOTS",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Free members",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "invisible ou pas",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Manager",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "BOT=BOT",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "lounaxa",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Support",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Tickets Admin",
+                                "allow": "2147601472",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "retour",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "✅〃verification",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "🌜〃Membre",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "lounaxa",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "invisible ou pas",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "40",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "@",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "314460325019647",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "﹒S7B BOTS",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT=BOT",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "314460325019647",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "special",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "80800616152273",
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "👑〃Owners",
+            "color": "#000001",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "👑〃Co Owners",
+            "color": "#001fff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "〃Friends",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "COLORS",
+            "color": "#3bb3f3",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "📞〃Helpeurs",
+            "color": "#c3b0ff",
+            "hoist": true,
+            "permissions": "143948844033",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "💸〃Vip",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "⭐〃Premium",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "j'ai boost",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "🍓﹒Whitelist",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "143948844033",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "🌜〃Membre",
+            "color": "#00cbff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "--------------------------",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "--------------------------",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "muet",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "--------------------------",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "Tickets Support",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "693741407809",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "Tickets Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "693741407809",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "693741407809",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1732396930920,
+    "guildID": "1308116829402828852",
+    "id": "1309992417944010752",
+    "iconURL": "https://cdn.discordapp.com/icons/1308116829402828852/a39d8e600ae8e55c76ca0245cc41f409.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/1308116829402828852/ea1a0fefc025633f421874f2f40e2612.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/1308116829402828852/ea1a0fefc025633f421874f2f40e2612.webp"
+}

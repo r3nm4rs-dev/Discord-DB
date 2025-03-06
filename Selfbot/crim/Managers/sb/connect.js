@@ -13,7 +13,7 @@ module.exports = {
         let embed = new Discord.EmbedBuilder()
             .setDescription(`👋 Bienvenu(e) sur le Panel de Connexion !
 
-Le panel est à votre __disposition__ si vous **souhaitez** être **connecté(e)** à la bêta de **Crim**.
+Le panel est à votre __disposition__ si vous **souhaitez** être **connecté(e)** à la bêta de **Pluzio**.
 
 > ❓**Un Bug ?** Envoyez un **MP** à <@219096963902210048> avec le **bug** en __question__. **Nous** allons __essayer__ de **corriger** le **problème** le plus **rapidement** __possible__.
 

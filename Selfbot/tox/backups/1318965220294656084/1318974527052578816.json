@@ -1,0 +1,1067 @@
+{
+    "name": "ζ͜͡Crow Bots",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "staff",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "admin",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "log-messages",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔍・validation-le-saviez-vous",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "White Crow",
+                                "allow": "132096",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Modmail",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "modmail-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Modmail",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "heuss1919",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Modmail",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Rédaction",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "📝・relecture",
+                        "parent": "Rédaction",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪶・présentation-des-rédacteurs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Rédaction",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📚・conseils",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Rédaction",
+                        "topic": "Ici vous pouvez obtenir des conseils et poser des questions sur la rédaction d'article et de tutoriel sur l'utilisation des bots",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪶・rédacteurs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Rédaction",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Rédacteur",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "accueil",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📌・annonces",
+                        "nsfw": false,
+                        "parent": "accueil",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "309237647360"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛠・forum-support",
+                        "parent": "accueil",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🧭・avis-clients",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "accueil",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "309237645312",
+                                "deny": "634076759775296"
+                            },
+                            {
+                                "roleName": "client",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎭・rôles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "accueil",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・support",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "accueil",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚪・arrivée-départs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "accueil",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "salons textuels",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⭐・starboard",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons textuels",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌍・général",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons textuels",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・commandes-bot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons textuels",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎・jeux",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons textuels",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔎・le-saviez-vous",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons textuels",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125184"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Suggestions",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❓・faire-une-suggestion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Suggestions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⏰・attente-de-validation",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Suggestions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "68719478848"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💡・suggestions-validées",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Suggestions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124160"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "2112",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Informations CrowBots",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀・gestion-v2",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📊・crow-tools",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏆・crow-games",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💰・ecrownomy",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📻・bots-radios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📡・radio-generator",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "White Crow",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⚡・crow-patch",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔥・intégrations-crowbots",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "11264",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💸・détails-des-tarifs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Informations CrowBots",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "salons vocaux",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔇・sans-micro",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "salons vocaux",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Vocal",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・Général",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "salons vocaux",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🎵・Musique",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "salons vocaux",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "📻・NRJ Test",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "salons vocaux",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "📻・Skyrock Test",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "salons vocaux",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🕑・tempvoc",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "salons vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "Bot",
+                                "allow": "1040",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": "✅・En ligne 3,199/30,164",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1048576"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "📜・règlement",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "377957124160"
+                    },
+                    {
+                        "roleName": "White Crow",
+                        "allow": "10240",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "🎩・client 1,242",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1048576"
+                    }
+                ]
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "Développeur",
+            "color": "#000030",
+            "hoist": true,
+            "permissions": "6546644545",
+            "mentionable": true,
+            "position": 36,
+            "isEveryone": false
+        },
+        {
+            "name": "White Crow",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "268443700",
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "Noir",
+            "color": "#000001",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "Rouge",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "Bleu",
+            "color": "#0000ff",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "Vert",
+            "color": "#2ecc71",
+            "hoist": false,
+            "permissions": "247064808001",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "Blanc",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "Or",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "Rédacteur",
+            "color": "#9d8df1",
+            "hoist": true,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "Bot",
+            "color": "#ad1457",
+            "hoist": true,
+            "permissions": "6546513473",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "Extra Booster (1 an +)",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "Ultra Booster (9 mois)",
+            "color": "#fde9ff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "Giga Booster (6 mois)",
+            "color": "#fbd4ff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "Mega Booster (3 mois)",
+            "color": "#f9bfff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "Hyper Booster (2 mois)",
+            "color": "#f7a9ff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "Super Booster (un mois)",
+            "color": "#f594ff",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "Record nombre de bots",
+            "color": "#1624a1",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "Record nombre de jours",
+            "color": "#1624a1",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "client",
+            "color": "#e67e22",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "bot liens",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "Vocal",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "Anniversaire",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698528833",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "Visiteur",
+            "color": "#607383",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "Notif Annonces",
+            "color": "#0060db",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Notif Sondages",
+            "color": "#0060db",
+            "hoist": false,
+            "permissions": "6546639425",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "+ 5 invites",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "level 20 +",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "star",
+            "color": "#00f5ff",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "ancien (+2 ans)",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1096185279794753",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734538432611,
+    "guildID": "585517467116371988",
+    "id": "1318974527052578816",
+    "iconURL": "https://cdn.discordapp.com/icons/585517467116371988/a_9cac14607d1fa8c09211bbd3bc7a489d.gif",
+    "splashURL": "https://cdn.discordapp.com/splashes/585517467116371988/7626b35c143a2cb2e49c77660d7c4287.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/585517467116371988/a_7626b35c143a2cb2e49c77660d7c4287.webp"
+}

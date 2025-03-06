@@ -1,0 +1,6 @@
+{
+    "token": "Your BOT Token", 
+    "logs": "Channel Logs ID",
+    "customerRole": "CustomerRole ID",
+    "prefix": "$"
+}

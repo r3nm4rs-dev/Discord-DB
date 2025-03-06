@@ -1,0 +1,1304 @@
+{
+    "name": "LEGITS STORES | + 200 Vouch",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "👋 || ⇨ WELCOME",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🚪彡welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📣彡news",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📕彡terms",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📨彡tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📧彡event",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "cadeaux",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👋 || ⇨ WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔔 || ⇨ STOCK",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📌彡stock",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔 || ⇨ STOCK",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📦彡role-restock-ping",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔 || ⇨ STOCK",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "💯 || ⇨ LEGIT ZONE",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ✅彡legit-click",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💯 || ⇨ LEGIT ZONE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ💜彡vouchs-215",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💯 || ⇨ LEGIT ZONE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | LS.members",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "天 | Client fidèle",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "天 | Client",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📸彡proof",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💯 || ⇨ LEGIT ZONE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🛒 || ⇨ SHOP LIST",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🛒彡product-list",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒 || ⇨ SHOP LIST",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🛒彡other-product",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒 || ⇨ SHOP LIST",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🛒彡reseller-plan",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒 || ⇨ SHOP LIST",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "💱 || ⇨ EXCHANGE",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103080265792"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ💱彡exchange",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💱 || ⇨ EXCHANGE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103080265792"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "💈|| ⇨ SLOT INFO",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🦋彡price-slot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT INFO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ📙彡slot-rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT INFO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "💈|| ⇨ SLOT",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ♾彡slot-traze",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | SLOT OWNER",
+                                "allow": "274877942785",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🦄彡slot-arracheur",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | SLOT OWNER",
+                                "allow": "137439382592",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ👑彡slot-erik",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🔥彡slot-cyrad23",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | SLOT OWNER",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🧨彡slot-esp",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💈|| ⇨ SLOT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | SLOT OWNER",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🌏 || ⇨ CHATTING",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🗣彡chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏 || ⇨ CHATTING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | LS.members",
+                                "allow": "70506183429184",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "70506183429184",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🤖彡cmd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏 || ⇨ CHATTING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | LS.members",
+                                "allow": "137439251520",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "137439251520",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ㄆ🤡彡scam-list",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏 || ⇨ CHATTING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "天 | LS.members",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderatot-only-test",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "天👑ミadmin",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "17408"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "test",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-knightlegit",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-ryanlachiennete",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-tomo7614",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-7h50",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-aracheurdebandeurduw3b",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-emiliobusiness",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-karye",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-sayonmu",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-cespj",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-chnokosoonprime",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-users921239",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-variaoe",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-shanogan",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-vavan_m_",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-_zxo_",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-117414",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-cyrad23",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-fixzy_coc",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-lilwsm",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "天 | LS.members",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "天 | Co-Owner",
+                        "allow": "1032",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "BOT BOOST",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT = BOT",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "Owner",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "Co-Owner",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "Gerant",
+            "color": "#00ffd7",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "Modérateur",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "Legendes",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "Famous",
+            "color": "#f700ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | *",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "1721826618638327",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Owner",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "2108863301550079",
+            "mentionable": true,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Co-Owner",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "1721826618638335",
+            "mentionable": true,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Admin",
+            "color": "#2800f2",
+            "hoist": true,
+            "permissions": "981299094880249",
+            "mentionable": true,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Staff",
+            "color": "#00fbf1",
+            "hoist": true,
+            "permissions": "630552956235591",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Client fidèle",
+            "color": "#1f8b4c",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | SLOT OWNER",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Client",
+            "color": "#a400ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Bots",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | Restock",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | LS.members",
+            "color": "#2ecc71",
+            "hoist": false,
+            "permissions": "1720707884371521",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "天 | LS.restock",
+            "color": "#a84300",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "Muted",
+            "color": "#979c9f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "2221982040313409",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734650472680,
+    "guildID": "1319421752421384282",
+    "id": "1319444457162145792",
+    "iconURL": "https://cdn.discordapp.com/icons/1319421752421384282/f167aff1e4454035aa9d5ee32c71f0d3.webp"
+}

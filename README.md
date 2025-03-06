@@ -1,12 +1,36 @@
-# New Discord Server With All Leaks
--  https://discord.gg/m4xSQZy9yc
+<h1 align="center">
+ 🤖 〢 Leaks Database
+</h1>
 
-## Maintener
+---
+## <a id="menu"></a>🍃 〢 Menu
 
-- [@r3nm4rss](https://www.github.com/r3nm4rs-dev)
-*  Server : https://discord.gg/VKBeRC4TJD
-*  Website of Selfbot : https://pluzio.netlify.app/
+- [📩・Contact](#contact)
+- [⚙️・Setting up](#setup)
+- [💼・Term](#terms)
+- [🕵️‍♂️・Authors](#authors)
+- [🪄・Discord](https://discord.gg/pluzio)
 
-## I host my own Selfbot in my server, you can join [here](https://discord.gg/VKBeRC4TJD)
+## <a id="setup"></a> 📁 〢 Setting up
 
-- Contact me to share src for the project!
+1. Install [NodeJS](https://nodejs.org/)
+2. Install [Python](https://python.org/)
+3. Look at ``Tutorial.md``
+4. Star the project
+
+### <a id="terms"></a>💼 〢 Terms Of Usage
+
+- [x] Educational purpose only.
+- [x] We are NOT responsible of anything you do with our software (if its illegal).
+
+### <a id="authors"></a>🕵️‍♂️ 〢 Authors
+- [r3nm4rss](https://github.com/r3nm4rs-dev)
+
+### <a id="contact"></a>📩 〢 Contact
+
+# You can contact me via :
+
+- Discord - r3nm4rsss
+- Mail - r3nm4rsss@proton.me
+
+---

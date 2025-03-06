@@ -1,0 +1,1153 @@
+{
+    "name": "꧁BTCxSHOP꧂™",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "📊 SERVER STATS 📊",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1050624"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "all-members-127",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "members-119",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "bots-8",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 Welecome 》",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "328769",
+                        "deny": "1093940738832"
+                    },
+                    {
+                        "roleName": "😎member😎",
+                        "allow": "66625",
+                        "deny": "509760436240"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬welcome╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "327745",
+                                "deny": "1093940739856"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬rules╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "328769",
+                                "deny": "1093940738832"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬annoucement╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "207888",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "327745",
+                                "deny": "1093940739856"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬partnership╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "327745",
+                                "deny": "1093940739856"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬proof╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "327745",
+                                "deny": "1093940739856"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬how-to-buy╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "327745",
+                                "deny": "1093940739856"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬giveaways╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "328769",
+                                "deny": "1093940738832"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬artifact-loot╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "328769",
+                                "deny": "1093940738832"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎-╬invite-reward╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Welecome 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "328769",
+                                "deny": "1093940738832"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66625",
+                                "deny": "509760436240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 Text room 》",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬main-chat╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": "french and english shop for ark mobile",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "347200",
+                                "deny": "535528910865"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🍺-╬voice-channel╬",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "《 Text room 》",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "35734164672256",
+                                "deny": "22139244048465"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬photo╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬ticket╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬youtube-video╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "16384",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬cmd╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬trade-and-sell╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬idee-giveway╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "330816",
+                                "deny": "70904273104913"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬combat-de-joueur-╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "363584",
+                                "deny": "17180008448"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍺-╬telechargement-ark-apk-╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Text room 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 BUYER ACCES 》",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "🤑Buyer🤑",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⭐-╬buyer-chat╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 BUYER ACCES 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "🤑Buyer🤑",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⭐-╬buyer-giveaway╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 BUYER ACCES 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            },
+                            {
+                                "roleName": "🤑Buyer🤑",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 AMBER 》",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤑-personal-amber",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 AMBER 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "535529258065",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《  Hacks 》",
+                "permissions": [
+                    {
+                        "roleName": "rapping",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "😎member😎",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍏╬ios╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《  Hacks 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖╬android╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《  Hacks 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "71436849313873"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 item shop 》",
+                "permissions": [
+                    {
+                        "roleName": "owner",
+                        "allow": "715983945553",
+                        "deny": "377957122048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "😎member😎",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍹-╬premium╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏝-╬arena-boss╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⚡-╬skins╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎨-╬coloration╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌟-╬bug-stat╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👾-╬hack╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 item shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "715983945553",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "《 Dino shop 》",
+                "permissions": [
+                    {
+                        "roleName": "owner",
+                        "allow": "698804010833",
+                        "deny": "377957122048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "😎member😎",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😈-╬boss╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Dino shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "698804010833",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💯-╬spécial╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Dino shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "698804076369",
+                                "deny": "395136991232"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💢-╬alpha-tame╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Dino shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "698804010833",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "☠-╬dino-op-squelette╬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "《 Dino shop 》",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "owner",
+                                "allow": "698804010833",
+                                "deny": "377957122048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "😎member😎",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "salon-admin",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-0092",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "ticket-0093",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "owner",
+            "color": "#fb0000",
+            "hoist": true,
+            "permissions": "68169720922111",
+            "mentionable": true,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "😎member😎",
+            "color": "#49ff00",
+            "hoist": false,
+            "permissions": "5469745040961",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "Muted",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "🤝Colaboration🤝",
+            "color": "#fe00c2",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "🎓professeurs d'anglais🎓",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "687197193792",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "🤑Buyer🤑",
+            "color": "#8600ff",
+            "hoist": true,
+            "permissions": "13885666332225",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "rapping",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "117824",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "2222085186637377",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734553122071,
+    "guildID": "1058348878887407647",
+    "id": "1319036139113414658",
+    "iconURL": "https://cdn.discordapp.com/icons/1058348878887407647/a8cc085bd28d5a51b1d86da87c233989.webp"
+}

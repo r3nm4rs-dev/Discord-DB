@@ -1,19 +1,19 @@
 const { ActivityType, PresenceUpdateStatus } = require("discord.js");
 
 module.exports = {
-  client: "",// aşağıda ki ve yukarıda ki ikisi de aynı
-  client_id: "", // client id du ",
-  client_secret:"",
-  redirect_uri: "", //domain url veya vds ip
-  footer: "@printsmoney", //Değiştirme
-  support: "", //koymasan da olur
-  owners: ["", "",""], //örnek ["owner_1_id", "owner_2_id"])
-  token:"",
+  client: "", // I think it the oauth url
+  client_id: "", // bot id,
+  client_secret:"", // bot secret from oauth page
+  redirect_uri: "", // domain of vps without http ( example : 23.446.34:4402)
+  footer: "@pluzio", // footer for all embeds
+  support: "", // support server url
+  owners: ["", "",""], // id of the owners
+  token:"", // bot token
   webhooks:{
-    general:"",
-    join:""
+    general:"", // webhook for general logs
+    join:"" // webhook for new users
   },
-  durum: "Full security",
+  durum: "Full security", // bot activity
   type:ActivityType.Watching,
   status:PresenceUpdateStatus.DoNotDisturb,
 }

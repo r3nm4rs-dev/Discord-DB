@@ -1,0 +1,8 @@
+{ 
+  "token": "Bot Token Here",
+  "mongourl": "mongodb+srv://b12nsj:99c61q@cluster0.wequneh.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": "<",
+  "everyoneMention": false,
+  "hostedBy": true,
+  "message_remove_time": 30
+}

@@ -1,0 +1,800 @@
+{
+    "name": "Nexus / DarkTool #Retour",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "➜ INFORMATION",
+                "permissions": [
+                    {
+                        "roleName": "Open",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📚・reglement",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎁・giveaways",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛬・welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛎・annonce",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎟・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎・boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👀・partenariat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎・proof",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "➜ COMMUNAUTER",
+                "permissions": [
+                    {
+                        "roleName": "Open",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🇫🇷・tchat-fr",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏴・tchat-eng",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📸・media",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥・video",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・cmd-bot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "➜ COMMUNAUTÉ DEV",
+                "permissions": [
+                    {
+                        "roleName": "Open",
+                        "allow": "1025",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🖥・shark-code",
+                        "parent": "➜ COMMUNAUTÉ DEV",
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1025",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❓・aide-code",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ COMMUNAUTÉ DEV",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1025",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "➜ NEXUS-BOT(S)",
+                "permissions": [
+                    {
+                        "roleName": "Open",
+                        "allow": "1024",
+                        "deny": "1"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・nexus-lookup",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ NEXUS-BOT(S)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "1"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・nexus-gestion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ NEXUS-BOT(S)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "1"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・nexus-selfbot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ NEXUS-BOT(S)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "1"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・nexus-generator",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ NEXUS-BOT(S)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Open",
+                                "allow": "1024",
+                                "deny": "1"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "➜ DARK-TOOL",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔁・upgrade",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ DARK-TOOL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👀・leak-tool",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ DARK-TOOL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔥・link-github",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ DARK-TOOL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "➜ SHOP COMMU",
+                "permissions": [
+                    {
+                        "roleName": "Open",
+                        "allow": "1024",
+                        "deny": "1"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❓・comment-avoir-son-shop",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ SHOP COMMU",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💼・shop-sanglier_secour",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "➜ SHOP COMMU",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "perm-annonce",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "admin",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "➜ Créateur 👑",
+            "color": "#f5ff00",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "⚜️・Co-Créateur",
+            "color": "#eeff00",
+            "hoist": true,
+            "permissions": "2108858469711838",
+            "mentionable": true,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "IV",
+            "color": "#020202",
+            "hoist": false,
+            "permissions": "1544275153196824",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "🔨・Administrateur",
+            "color": "#fcf6f6",
+            "hoist": true,
+            "permissions": "268436504",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "III",
+            "color": "#050505",
+            "hoist": false,
+            "permissions": "1099608105994",
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "⛏・Modérateur",
+            "color": "#ff0061",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "II",
+            "color": "#000001",
+            "hoist": false,
+            "permissions": "1238091705411",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "🪛 ・Helpeur",
+            "color": "#ff00fa",
+            "hoist": true,
+            "permissions": "17408",
+            "mentionable": true,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "Brozer ^^",
+            "color": "#0043ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "Nexus Soutien",
+            "color": "#2500ff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Open",
+            "color": "#00acff",
+            "hoist": true,
+            "permissions": "1720707884371521",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "nouveau rôle",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "🛡️• VERIF",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1584263148670529",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734299128395,
+    "guildID": "1317212863445864539",
+    "id": "1317970812422193153",
+    "iconURL": "https://cdn.discordapp.com/icons/1317212863445864539/4c245acccdbaa227df7d8c14f98a2ea1.webp"
+}

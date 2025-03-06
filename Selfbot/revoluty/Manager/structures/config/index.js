@@ -1,6 +1,6 @@
 module.exports = {
     manager: {
-        token: '',
+        token: '', // Discord bot token
         owner: [
             {
                 id: '1331242382167117994'

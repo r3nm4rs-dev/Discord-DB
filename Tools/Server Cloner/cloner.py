@@ -101,12 +101,12 @@ class Clone:
                     name=channel.name, overwrites=overwrites_to)
                 await new_channel.edit(position=channel.position)
                 print_add(
-                    f"The category {Fore.YELLOW}{channel.name}{Fore.BLUE} has been created"
+                    f"The channel {Fore.YELLOW}{channel.name}{Fore.BLUE} has been created"
                 )
                 await asyncio.sleep(random.randint(1, 3))
             except discord.Forbidden:
                 print_error(
-                    f"Error creating the category: {Fore.YELLOW}{channel.name}{Fore.RED} Insufficient permissions.{Fore.RESET}"
+                    f"Error creating the channel: {Fore.YELLOW}{channel.name}{Fore.RED} Insufficient permissions.{Fore.RESET}"
                 )
                 await asyncio.sleep(random.randint(2, 3))
             except discord.HTTPException as e:
@@ -117,7 +117,7 @@ class Clone:
                     await asyncio.sleep(60)
             except:
                 print_error(
-                    f"Unable to create the category {Fore.YELLOW}{channel.name}{Fore.RED} Unidentified error"
+                    f"Unable to create the channel {Fore.YELLOW}{channel.name}{Fore.RED} Unidentified error"
                 )
                 await asyncio.sleep(random.randint(9, 12))
 

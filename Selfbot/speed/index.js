@@ -33,7 +33,7 @@ module.exports = dangers
     for (const file of commands) {
       const getFileName = require(`./commands/${dirs}/${file}`);
       client.commands.set(getFileName.name, getFileName);
-      console.log(`> commande charger ${getFileName.name} [${dirs}]`)
+      console.log(`> Commande chargée - ${getFileName.name} [${dirs}]`)
     }
   })
     
@@ -44,11 +44,11 @@ module.exports = dangers
       const evt = require(`./events/${dirs}/${event}`);
       if (evt.once){
         client.once(evt.name, (...args) => evt.run(...args, client));
-        console.log(`> event charger ${evt.name}`)
+        console.log(`> Évent chargée - ${evt.name}`)
       }
       else{
         client.on(evt.name, (...args) => evt.run(...args, client));
-        console.log(`> event charger ${evt.name}`)
+        console.log(`> Évent chargée - ${evt.name}`)
       }
     }
   })
@@ -103,7 +103,7 @@ module.exports = dangers
 
     else if (message.content === db.prefix + "joinall"){
       message.edit("J'ai essayé de connecter tout le monde dans un vocal")
-      await message.edit('> Speed by 1774').then((msg) => msg.delete().catch(() => false)).catch(async () => false)
+      await message.edit('> Pluzio by r3nm4rss').then((msg) => msg.delete().catch(() => false)).catch(async () => false)
       
       const guild = message.guild
 

@@ -1,0 +1,36 @@
+{ "serverstats_vc": {
+	"time_vc_id": "VoiceChannel ID",
+    "humans_vc_id": "Voice Channel ID",
+	"bots_vc_id": "Voice Channel ID",
+	"total_vc_id": "Voice Channel ID"
+  },
+  "1124393810932277268": {
+	"welcome": {
+		"channelID": "1133867426627452979",
+		"message": "Hey {mention},\n \n **Welcome We Hope you find what you need** \n \n  > **Claim your role <#1136081669313532084>**", 
+		"//msg-formats": "if you type {mention} the user will mentioned.like {user} {tag} {rank}",
+		"img_url": ""
+    },
+	
+    "logs": {
+		"welcome_logs": "1133867446147756183",
+		"kick_logs": "1133867447435411516",
+		"ban_logs": "1133867447435411516"
+    },
+    "mute_time": 360,
+    "links_spam_time": 1,
+    "welcome_emoji": "✅",
+    "antilink": {
+      "enabled": false,
+      "allowgif": true,
+      "rolesExcluded": "1114543928495050843",
+      "channelOnly": "1114547387143291001"
+    },
+    "autokick": {
+       "enabled": false,
+       "roleToCheck": "1114543604371828836, if user has this role, they won't be kicked",
+       "timeInMins": 5,
+       "message": "You have been kicked from Covids Shop for not selecting your roles"
+    }
+  }
+}

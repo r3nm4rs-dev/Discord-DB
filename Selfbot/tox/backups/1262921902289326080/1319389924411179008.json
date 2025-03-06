@@ -1,0 +1,635 @@
+{
+    "name": "Forgeta Shop | #comeback 🎄",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "📚 INFORMATIONS",
+                "permissions": [
+                    {
+                        "roleName": "・Clients",
+                        "allow": "66560",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🖖・𝐰𝐞𝐥𝐜𝐨𝐦𝐞",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📚 INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎・𝐛𝐨𝐨𝐬𝐭",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📚 INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌍・𝐡𝐨𝐦𝐞",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📚 INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💳・𝐩𝐚𝐲𝐞𝐦𝐞𝐧𝐭-𝐦𝐞𝐭𝐡𝐨𝐝",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📚 INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "👜MARKET",
+                "permissions": [
+                    {
+                        "roleName": "・Clients",
+                        "allow": "66560",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📣・𝐚𝐧𝐧𝐨𝐧𝐜𝐞",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💲・𝐩𝐫𝐢𝐜𝐞",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦・𝐬𝐭𝐨𝐜𝐤",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔎・𝐩𝐫𝐨𝐨𝐟",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎫・𝐭𝐢𝐜𝐤𝐞𝐭",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎁・𝐠𝐢𝐯𝐞𝐚𝐰𝐚𝐲𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👜MARKET",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・Clients",
+                                "allow": "66560",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "voc",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "permissions": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📣・𝐚𝐧𝐧𝐨𝐧𝐜𝐞-worldkey_raikage",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・Clients",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👑・Co-Owner",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💲・𝐩𝐫𝐢𝐜𝐞",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔎・𝐩𝐫𝐨𝐨𝐟",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎀・𝐯𝐨𝐮𝐜𝐡𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "68609",
+                                "deny": "378762575888"
+                            },
+                            {
+                                "roleName": "・Clients",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝・read-me",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑(-_𝑾𝒐𝒓𝒍𝒅𝑲𝒆𝒚_𝑹𝒂𝒊𝒌𝒂𝒈𝒆_-)",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1025",
+                                "deny": "378762610704"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "╭─━─╯ COMMUNAUTÉ╰─━─╮",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⛄・𝐜𝐡𝐚𝐭",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "╭─━─╯ COMMUNAUTÉ╰─━─╮",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📰・𝐬𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧-𝐬𝐡𝐨𝐩",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "╭─━─╯ COMMUNAUTÉ╰─━─╮",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖・𝐜𝐦𝐝",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "╭─━─╯ COMMUNAUTÉ╰─━─╮",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎀・𝐯𝐨𝐮𝐜𝐡𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 3600,
+                        "parent": "╭─━─╯ COMMUNAUTÉ╰─━─╮",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Tickets",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👑・Co-Owner",
+                        "allow": "68672",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "👑・Owner",
+                        "allow": "68672",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "demandes-de-tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑・Co-Owner",
+                                "allow": "68672",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑・Owner",
+                                "allow": "68672",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "onx_lefufu03",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Ticket demandé par <@1203665491353141299> le <t:1734306218:F>",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑・Co-Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑・Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "zdazzodizz",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Ticket demandé par <@1150119193065295978> le <t:1734377935:F>",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑・Co-Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑・Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "léon",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": "Ticket demandé par <@1258844140016369787> le <t:1734454167:F>",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👑・Co-Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👑・Owner",
+                                "allow": "17179937872",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderator-only",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "👑・Owner",
+            "color": "#050505",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "👑・Co-Owner",
+            "color": "#161515",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "📦・Fournisseur nitro",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "1711911753740120",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "📦・Fournisseur film",
+            "color": "#206694",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "📦・Fournisseur Graph",
+            "color": "#e67e22",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "📦・Fournisseur Follow",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "・Clients",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "2222085186637377",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1734637471059,
+    "guildID": "1317582284185927773",
+    "id": "1319389924411179008",
+    "iconURL": "https://cdn.discordapp.com/icons/1317582284185927773/a_c7cc3320a5d873f382a55a0087c2aa43.gif"
+}

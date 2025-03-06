@@ -25,10 +25,10 @@ module.exports = {
             .addFields({name: "Salon : ", value: `<#${message.channel.id}>`})
             .addFields({name: "Message : ", value: `${message.content}`})
             .setTimestamp()
-            .setFooter({text: `${client.user.username}・SPEED`, iconURL: `${client.user.displayAvatarURL({dynamic: true})}`})
+            .setFooter({text: `${client.user.username}・Pluzio`, iconURL: `${client.user.displayAvatarURL({dynamic: true})}`})
 
             setTimeout(() => {
-                webhookClient.send({ embeds: [embed], username: `${client.user.username} | SPEED`, avatarURL: `https://i.imgur.com/dqKTjPC.png` });
+                webhookClient.send({ embeds: [embed], username: `${client.user.username} | Pluzio`, avatarURL: `https://i.imgur.com/dqKTjPC.png` });
             }, 3000);
         }
         catch{}

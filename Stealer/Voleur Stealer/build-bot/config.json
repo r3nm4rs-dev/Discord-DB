@@ -1,0 +1,11 @@
+{ 
+    "token": "Token for the bot",
+    "prefix": "$",
+    "owners": ["1089302951102779432"],
+    "api_url": "https://sa-east-1.aws.data.mongodb-api.com/app/data-jowtd/endpoint/data/v1",
+    "tickets": {
+        "buy": "id",
+        "replace": "id",
+        "support": "id"
+    }
+}

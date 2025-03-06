@@ -1,0 +1,19 @@
+{
+    "token": "Bot token for the manager",
+    "owners": ["1156015257072980069", "245573481041756161"],
+    "mongouri": "MongoDB database link",
+    "genCooldown": "60000",
+    "genCooldownsec": "60",
+    "pgenCooldown": "30000",
+    "pgenCooldownsec": "30",
+    "gifurl": "https://steamuserimages-a.akamaihd.net/ugc/998053396972498418/9557AB0B52819E9E9EDE217C5997605F28308C6E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+    "rupture": "https://cdn.discordapp.com/attachments/1217586482076979301/1220849744440721428/standard_6.gif?ex=6622e4ed&is=66106fed&hm=f954d53fb9b5f765d7f4c73a7eec2724f9031bef9402d5d3a09178e627126784&",
+    "color": {
+        "green": "0x57F287",
+        "blue": "00FFFF",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2",
+        "black": "#000000"
+}
+}
