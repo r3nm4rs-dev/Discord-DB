@@ -32,5 +32,6 @@
 
 - Discord - r3nm4rsss
 - Mail - r3nm4rsss@proton.me
+- Server - https://discord.gg/HK83Ayw9nH
 
 ---
